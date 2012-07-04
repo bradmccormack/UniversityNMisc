@@ -1,0 +1,2 @@
+NOTE - Since I have written this code I've learnt quite a lot. I'd instigate RAII as often as possible and I'm well aware there are memory leaks (Which I would diagnose with Valgrind) and fix (but the assignment wasn't penalised for memory leaks - as such I'm a pragmatist and won't spend time on non-requirements. It's always better to let the compiler take care of memory management than yourself !
+

@@ -1,0 +1,225 @@
+<DOC>
+<DOCNO>WT01-B01-1</DOCNO>
+<DOCOLDNO>IA073-000475-B029-48</DOCOLDNO>
+<DOCHDR>
+http://www.city.geneva.ny.us:80/index.htm 192.108.245.124 19970121041510 text/html 2407
+HTTP/1.0 200 OK
+Date: Tue, 21 Jan 1997 04:14:08 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2236
+Last-modified: Fri, 18 Oct 1996 17:33:56 GMT
+</DOCHDR>
+brad
+<html>
+<head>
+<META name="keywords" content="waste water, biosolids, waste treatment, compost, waste stream, waste water treatment, water pollution,seneca, geneva, marsh creek">
+
+<title>Marsh Creek Waste Water Treatment Plant</title>
+</head>
+<body bgcolor="#ffff999" text="#006635" link="#993300" vlink="#CC0099">
+
+
+
+
+<center><a name="top"><img src="marbar.gif" align="left"></a></center>
+
+<br clear="all">
+
+<img src="margenev.gif" align="left" hspace="35" vspace="10">
+<p></p><br><p></p><br>
+
+<h1> Marsh Creek</h1>
+
+<h1><a name="Marsh Creek Treatment Plant"> Waste Water Treatment Plant</a></h1>
+
+<p></p>
+
+<h5> 71 Doran Avenue, Geneva, New York 14456</h5>
+
+<p><br clear="all"></p>
+
+<center><a name="top"><img src="marbeda1.gif" align="left"></a></center>
+
+<p><br clear="all"><P><BR> 
+
+<center><h1><i> Environmentally working for you</i></h1></center>
+
+<p></p><p></p>
+
+<img src="marbldg1.gif" align="right">
+
+The Marsh Creek Waste Water Treatment Plant has been recognized by both the 
+
+EPA (Environmental Protection Agency) and the New York Water Pollution Control 
+
+Association for outstanding achievement and operation of this important 
+
+facility.
+
+<p></p> 
+
+Schools and youth organizations are welcome and encouraged to tour the Marsh 
+
+Creek facility. Arrangements can be made by calling Plant Superintendent 
+
+Gordon Eddington during business hours at (315) 789-8040.
+
+<p></p><br clear="all"><p></p>
+
+
+<h2> Composting Biosolids :</h2>
+
+<blockquote>
+
+<br clear="all">
+
+<h3>
+
+The <a href="mar2.htm">Process</a> Saves Land Fill Space and Money
+
+<p>
+
+Creates a Clean <a href="mar3.htm">Soil-Enhancement Product</a> for Sale
+
+<p>
+
+<a href="marsend.htm">Contacting</a> Marsh Creek
+
+</h3>
+
+</blockquote>
+
+
+
+
+
+<P><BR><P>
+
+<br><center><font size="+1">
+
+|<a href="#top"> Lead Page</a> |<a href="mar2.htm#top"> The Process</a> |
+
+<a href="mar3.htm#top"> The Product</a> |<a href="marsend.htm#top"> E-mail</a> 
+
+|<a href="marfax.htm#top"> Fax</a> |<br>
+
+</font></center>
+
+<br>
+
+<center><img src="marbar.gif" align="bottom"></center>
+
+<center><font size="2"> Copyright 1996:<a href="http://www.spidergraphics.com"> Spider Graphics Corporation</a><img src="line.gif" align="bottom"> Last updated June, 1996</font></center>
+
+
+</body>
+
+</html>
+
+</DOC>
+<DOC>
+<DOCNO>WT01-B01-2</DOCNO>
+<DOCOLDNO>IA073-000475-B028-155</DOCOLDNO>
+<DOCHDR>
+http://www.city.geneva.ny.us:80/mar2.htm 192.108.245.124 19970121041428 text/html 2951
+HTTP/1.0 200 OK
+Date: Tue, 21 Jan 1997 04:13:21 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2780
+Last-modified: Tue, 30 Jul 1996 14:50:09 GMT
+</DOCHDR>
+brad
+<html>
+<head>
+
+<title>The Compost Process</title>
+
+</head>
+
+<body bgcolor="#ffff999" text="#006635" link="#993300" vlink="#CC0099">
+
+<body> 
+<a name="top"></a> 
+
+
+
+
+<UL><h1> The compost process:</h1></UL> 
+
+<br clear="all">
+<P> 
+
+<center><img src="marproce.gif"></center>
+<br clear="all">
+<P>
+
+<center><img src="marbar3.gif"></center>
+<br clear="all">
+<P><BR><P><BLOCKQUOTE>  
+
+
+
+
+
+<img src="martract.gif" align="left" hspace=10 >The compost process combines the natural organic materials of sawdust with 
+
+sludge, the bi-product of waste water treatment. Over a period of 30 days the 
+
+mixture of organic materials is processed within a special reactor silo. Forced 
+
+air enhances the work of normal bacteria to break down the wood and waste in a 
+
+manner similar to leaves turning to soil on the forest floor. The process, 
+
+completed under the controlled conditions of the reactor, is much faster. Once 
+
+the mixtue is allowed to cure for another 20 days, it is then ready to use as a soil enhancer.
+
+<p>
+
+The sawdust is used with an equal mix of biosolids to make the compost. Sawdust is a bi-product of the lumber industry and, like sludge, was previously disposed of at a land fill. The sawdust, because of its fine texture, breaks down faster than other amendments such as wood chips, that may also be used in the composting process, Sawdust also provides a consistent compost which is very important to many users, especially golf courses, where it is used in the most demanding situations such as on their greens. Compost applied properly will enhance growth of grass, flowers, shrubs, etc. by improving the basic soils.</p>
+
+<p>
+
+Recycling is good for the environment and in many cases good business. Prior to making compost, the City of Geneva spent approximately $160,000 in land fill fees per year to dispose of the waste water treatment sludge. The operation of making compost costs approximately $90,000 per year and the final compost product is sold for nearly half that amount. In short, recycling netted a savings of approximately $110,000 per year over the previous manner of doing business.</BLOCKQUOTE>
+
+</p>
+
+<p>
+
+
+
+<p>
+<center><img src="marbarf.gif"></center>
+<br clear="all">
+<p>
+
+<center> <font size="+1">
+|<a href="index.htm#top"> Lead Page </a> |<a href="mar2.htm#top">  The Process </a>
+
+|<a href="mar3.htm#top"> The Product </a>
+
+|<a href="marsend.htm#top"> E-mail </a> |<a href="marfax.htm#top"> Fax </a>|<br>
+</font></center>
+
+
+<p>
+<center>
+<p>
+<a href="http://www.spidergraphics.com"><img src="dgn.gif" align="bottom"></a>
+<br clear="all">
+
+<font size="2">
+Copyright 1996:<a href="http://www.spidergraphics.com"> Spider Graphics Corporation</a>
+ 
+<img src="line.gif" align="bottom"> Last updated June, 1996
+</font>
+</center>
+<br>
+
+</body>
+</html>
+
+</DOC>

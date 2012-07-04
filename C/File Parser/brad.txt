@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO>WT01-B01-1</DOCNO>
+<DOCOLDNO>IA073-000475-B029-48</DOCOLDNO>
+<DOCHDR>
+http://www.city.geneva.ny.us:80/index.htm 192.108.245.124 19970121041510 text/html 2407
+HTTP/1.0 200 OK
+Date: Tue, 21 Jan 1997 04:14:08 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2236
+Last-modified: Fri, 18 Oct 1996 17:33:56 GMT
+</DOCHDR>recycling netted a savings of approximately $110,000 per year over the previous manner of doing business.</DOC>

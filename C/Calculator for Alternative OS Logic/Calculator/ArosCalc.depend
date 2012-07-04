@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1284341579 source:/home/brad/Uni/ArosCalc/ArosCalc/main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"calculation.h"
+
+1284342259 /home/brad/Uni/ArosCalc/ArosCalc/calculation.h
+	"bstring.h"
+
+1284349214 source:/home/brad/Uni/ArosCalc/ArosCalc/calculation.c
+	"calculation.h"
+	"list.h"
+	<stdio.h>
+
+1284262233 source:/home/brad/Uni/ArosCalc/ArosCalc/bstring.c
+	"bstring.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1284262962 /home/brad/Uni/ArosCalc/ArosCalc/bstring.h
+
+1284343298 /home/brad/Uni/ArosCalc/ArosCalc/list.h
+	"calculation.h"
+	<stdio.h>
+
+1284348355 source:/home/brad/Uni/ArosCalc/ArosCalc/list.c
+	<stdio.h>
+	"list.h"
+
+1284347217 source:c:\users\brad\desktop\uni\aroscalc\aroscalc\list.c
+	<stdio.h>
+	"list.h"
+
+1284331677 c:\users\brad\desktop\uni\aroscalc\aroscalc\list.h
+	"calculation.h"
+	<stdio.h>
+
+1284348104 c:\users\brad\desktop\uni\aroscalc\aroscalc\calculation.h
+	"bstring.h"
+
+1284331677 c:\users\brad\desktop\uni\aroscalc\aroscalc\bstring.h
+
+1284348404 source:c:\users\brad\desktop\uni\aroscalc\aroscalc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"calculation.h"
+
+1284348626 source:c:\users\brad\desktop\uni\aroscalc\aroscalc\calculation.c
+	"calculation.h"
+	"list.h"
+	<stdio.h>
+	<stdlib.h>
+

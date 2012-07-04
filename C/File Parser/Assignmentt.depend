@@ -1,0 +1,253 @@
+# depslib dependency file v1.0
+1279015417 source:c:\users\brad\desktop\uni\programming in c\ass2\index_options.c
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+
+1280448238 lity.h"
+
+1279015396 c:\users\brad\desktop\uni\programming in c\ass2\index.h
+	<stdio.h>
+	<stdlib.h>
+
+1281417467 
+
+1279015427 c:\users\brad\desktop\uni\programming in c\ass2\index_options.h
+
+1279015444 c:\users\brad\desktop\uni\programming in c\ass2\index_utility.h
+
+1279015457 source:c:\users\brad\desktop\uni\programming in c\ass2\index_utility.c
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+
+1280272500 source:c:\users\brad\desktop\uni\programming in c\ass2\index.c
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+	"string.h"
+	<ctype.h>
+
+1280272464 source:c:\users\brad\desktop\uni\programming in c\ass2\string.c
+	"string.h"
+	<stdio.h>
+
+1280272464 c:\users\brad\desktop\uni\programming in c\ass2\string.h
+
+1282879695 source:c:\users\brad\desktop\uni\programming in c\assignment2\index_options.c
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+
+1282856115 c:\users\brad\desktop\uni\programming in c\assignment2\index.h
+	<stdio.h>
+	<stdlib.h>
+
+1281599088 c:\users\brad\desktop\uni\programming in c\assignment2\index_options.h
+	<string.h>
+
+1282878797 c:\users\brad\desktop\uni\programming in c\assignment2\index_utility.h
+	"bstring.h"
+
+1282880227 source:c:\users\brad\desktop\uni\programming in c\assignment2\index_utility.c
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+	"bstring.h"
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+
+1281669740 source:c:\users\brad\desktop\uni\programming in c\assignment2\index.c
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+	"bstring.h"
+	"butils.h"
+	<ctype.h>
+
+1280272464 c:\users\brad\desktop\uni\programming in c\assignment2\string.h
+
+1281571594 c:\users\brad\desktop\uni\programming in c\assignment2\bstring.h
+
+1281606909 source:c:\users\brad\desktop\uni\programming in c\assignment2\bstring.c
+	"bstring.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1280288454 source:c:\users\brad\desktop\uni\programming in c\assignment2\butils.c
+	"butils.h"
+	<stdio.h>
+
+1280447273 c:\users\brad\desktop\uni\programming in c\assignment2\butils.h
+
+1281329206 "
+
+1281606909 source:/home/brad/Uni/C2/Assignment2/bstring.c
+	"bstring.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"bstring.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"bstring.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1281571594 /home/brad/Uni/C2/Assignment2/bstring.h
+
+1282859624 source:/home/brad/Uni/C2/Assignment2/index_options.c
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+
+1282856115 /home/brad/Uni/C2/Assignment2/index.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+
+1281599088 /home/brad/Uni/C2/Assignment2/index_options.h
+	<string.h>
+
+1282858077 /home/brad/Uni/C2/Assignment2/index_utility.h
+	"bstring.h"
+
+1282859719 source:/home/brad/Uni/C2/Assignment2/index_utility.c
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+	"bstring.h"
+	<string.h>
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+	"bstring.h"
+	<string.h>
+	<stdio.h>
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+	"bstring.h"
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+
+1281669740 source:/home/brad/Uni/C2/Assignment2/index.c
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+	"bstring.h"
+	"butils.h"
+	<ctype.h>
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+	"bstring.h"
+	"butils.h"
+	<ctype.h>
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+	"bstring.h"
+	"butils.h"
+	<ctype.h>
+
+1280447273 /home/brad/Uni/C2/Assignment2/butils.h
+	"bstring.h"
+
+1281413188 source:c:\users\brad\desktop\uni\programming in c\assignment2\assignment2\index.c
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+	"bstring.h"
+	"butils.h"
+	<ctype.h>
+
+1280448238 c:\users\brad\desktop\uni\programming in c\assignment2\assignment2\index.h
+	<stdio.h>
+	<stdlib.h>
+
+1280448238 c:\users\brad\desktop\uni\programming in c\assignment2\assignment2\index_options.h
+
+1281329206 c:\users\brad\desktop\uni\programming in c\assignment2\assignment2\index_utility.h
+	"bstring.h"
+
+1280448238 c:\users\brad\desktop\uni\programming in c\assignment2\assignment2\bstring.h
+
+1280447273 c:\users\brad\desktop\uni\programming in c\assignment2\assignment2\butils.h
+
+1280448238 source:c:\users\brad\desktop\uni\programming in c\assignment2\assignment2\index_options.c
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+
+1281417467 source:c:\users\brad\desktop\uni\programming in c\assignment2\assignment2\index_utility.c
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+	"bstring.h"
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+
+1280458466 source:c:\users\brad\desktop\uni\programming in c\assignment2\assignment2\bstring.c
+	"bstring.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1281606909 source:/media/host/Assignment2/bstring.c
+	"bstring.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1281571594 /media/host/Assignment2/bstring.h
+
+1281670051 source:/media/host/Assignment2/index_options.c
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+
+1281568593 /media/host/Assignment2/index.h
+	<stdio.h>
+	<stdlib.h>
+
+1281599088 /media/host/Assignment2/index_options.h
+	<string.h>
+
+1281608654 /media/host/Assignment2/index_utility.h
+	"bstring.h"
+
+1281669740 source:/media/host/Assignment2/index.c
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+	"bstring.h"
+	"butils.h"
+	<ctype.h>
+
+1280447273 /media/host/Assignment2/butils.h
+
+1281672528 source:/media/host/Assignment2/index_utility.c
+	"index.h"
+	"index_options.h"
+	"index_utility.h"
+	"bstring.h"
+	<string.h>
+	<stdio.h>
+	<ctype.h>
+

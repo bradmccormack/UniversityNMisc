@@ -1,0 +1,1151 @@
+<DOC>
+<DOCNO>WT01-B01-1</DOCNO>
+<DOCOLDNO>IA073-000475-B029-48</DOCOLDNO>
+<DOCHDR>
+http://www.city.geneva.ny.us:80/index.htm 192.108.245.124 19970121041510 text/html 2407
+HTTP/1.0 200 OK
+Date: Tue, 21 Jan 1997 04:14:08 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2236
+Last-modified: Fri, 18 Oct 1996 17:33:56 GMT
+</DOCHDR>
+<html>
+<head>
+<META name="keywords" content="waste water, biosolids, waste treatment, compost, waste stream, waste water treatment, water pollution,seneca, geneva, marsh creek">
+
+<title>Marsh Creek Waste Water Treatment Plant</title>
+</head>
+<body bgcolor="#ffff999" text="#006635" link="#993300" vlink="#CC0099">
+
+
+
+
+<center><a name="top"><img src="marbar.gif" align="left"></a></center>
+
+<br clear="all">
+
+<img src="margenev.gif" align="left" hspace="35" vspace="10">
+<p></p><br><p></p><br>
+
+<h1> Marsh Creek</h1>
+
+<h1><a name="Marsh Creek Treatment Plant"> Waste Water Treatment Plant</a></h1>
+
+<p></p>
+
+<h5> 71 Doran Avenue, Geneva, New York 14456</h5>
+
+<p><br clear="all"></p>
+
+<center><a name="top"><img src="marbeda1.gif" align="left"></a></center>
+
+<p><br clear="all"><P><BR> 
+
+<center><h1><i> Environmentally working for you</i></h1></center>
+
+<p></p><p></p>
+
+<img src="marbldg1.gif" align="right">
+
+The Marsh Creek Waste Water Treatment Plant has been recognized by both the 
+
+EPA (Environmental Protection Agency) and the New York Water Pollution Control 
+
+Association for outstanding achievement and operation of this important 
+
+facility.
+
+<p></p> 
+
+Schools and youth organizations are welcome and encouraged to tour the Marsh 
+
+Creek facility. Arrangements can be made by calling Plant Superintendent 
+
+Gordon Eddington during business hours at (315) 789-8040.
+
+<p></p><br clear="all"><p></p>
+
+
+<h2> Composting Biosolids :</h2>
+
+<blockquote>
+
+<br clear="all">
+
+<h3>
+
+The <a href="mar2.htm">Process</a> Saves Land Fill Space and Money
+
+<p>
+
+Creates a Clean <a href="mar3.htm">Soil-Enhancement Product</a> for Sale
+
+<p>
+
+<a href="marsend.htm">Contacting</a> Marsh Creek
+
+</h3>
+
+</blockquote>
+
+
+
+
+
+<P><BR><P>
+
+<br><center><font size="+1">
+
+|<a href="#top"> Lead Page</a> |<a href="mar2.htm#top"> The Process</a> |
+
+<a href="mar3.htm#top"> The Product</a> |<a href="marsend.htm#top"> E-mail</a> 
+
+|<a href="marfax.htm#top"> Fax</a> |<br>
+
+</font></center>
+
+<br>
+
+<center><img src="marbar.gif" align="bottom"></center>
+
+<center><font size="2"> Copyright 1996:<a href="http://www.spidergraphics.com"> Spider Graphics Corporation</a><img src="line.gif" align="bottom"> Last updated June, 1996</font></center>
+
+
+</body>
+
+</html>
+
+</DOC>
+<DOC>
+<DOCNO>WT01-B01-2</DOCNO>
+<DOCOLDNO>IA073-000475-B028-155</DOCOLDNO>
+<DOCHDR>
+http://www.city.geneva.ny.us:80/mar2.htm 192.108.245.124 19970121041428 text/html 2951
+HTTP/1.0 200 OK
+Date: Tue, 21 Jan 1997 04:13:21 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2780
+Last-modified: Tue, 30 Jul 1996 14:50:09 GMT
+</DOCHDR>
+<html>
+<head>
+
+<title>The Compost Process</title>
+
+</head>
+
+<body bgcolor="#ffff999" text="#006635" link="#993300" vlink="#CC0099">
+
+<body> 
+<a name="top"></a> 
+
+
+
+
+<UL><h1> The compost process:</h1></UL> 
+
+<br clear="all">
+<P> 
+
+<center><img src="marproce.gif"></center>
+<br clear="all">
+<P>
+
+<center><img src="marbar3.gif"></center>
+<br clear="all">
+<P><BR><P><BLOCKQUOTE>  
+
+
+
+
+
+<img src="martract.gif" align="left" hspace=10 >The compost process combines the natural organic materials of sawdust with 
+
+sludge, the bi-product of waste water treatment. Over a period of 30 days the 
+
+mixture of organic materials is processed within a special reactor silo. Forced 
+
+air enhances the work of normal bacteria to break down the wood and waste in a 
+
+manner similar to leaves turning to soil on the forest floor. The process, 
+
+completed under the controlled conditions of the reactor, is much faster. Once 
+
+the mixtue is allowed to cure for another 20 days, it is then ready to use as a soil enhancer.
+
+<p>
+
+The sawdust is used with an equal mix of biosolids to make the compost. Sawdust is a bi-product of the lumber industry and, like sludge, was previously disposed of at a land fill. The sawdust, because of its fine texture, breaks down faster than other amendments such as wood chips, that may also be used in the composting process, Sawdust also provides a consistent compost which is very important to many users, especially golf courses, where it is used in the most demanding situations such as on their greens. Compost applied properly will enhance growth of grass, flowers, shrubs, etc. by improving the basic soils.</p>
+
+<p>
+
+Recycling is good for the environment and in many cases good business. Prior to making compost, the City of Geneva spent approximately $160,000 in land fill fees per year to dispose of the waste water treatment sludge. The operation of making compost costs approximately $90,000 per year and the final compost product is sold for nearly half that amount. In short, recycling netted a savings of approximately $110,000 per year over the previous manner of doing business.</BLOCKQUOTE>
+
+</p>
+
+<p>
+
+
+
+<p>
+<center><img src="marbarf.gif"></center>
+<br clear="all">
+<p>
+
+<center> <font size="+1">
+|<a href="index.htm#top"> Lead Page </a> |<a href="mar2.htm#top">  The Process </a>
+
+|<a href="mar3.htm#top"> The Product </a>
+
+|<a href="marsend.htm#top"> E-mail </a> |<a href="marfax.htm#top"> Fax </a>|<br>
+</font></center>
+
+
+<p>
+<center>
+<p>
+<a href="http://www.spidergraphics.com"><img src="dgn.gif" align="bottom"></a>
+<br clear="all">
+
+<font size="2">
+Copyright 1996:<a href="http://www.spidergraphics.com"> Spider Graphics Corporation</a>
+ 
+<img src="line.gif" align="bottom"> Last updated June, 1996
+</font>
+</center>
+<br>
+
+</body>
+</html>
+
+</DOC>
+<DOC>
+<DOCNO>WT01-B01-3</DOCNO>
+<DOCOLDNO>IA073-000475-B028-184</DOCOLDNO>
+<DOCHDR>
+http://www.city.geneva.ny.us:80/mar3.htm 192.108.245.124 19970121041442 text/html 3616
+HTTP/1.0 200 OK
+Date: Tue, 21 Jan 1997 04:13:38 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 3445
+Last-modified: Tue, 09 Jul 1996 03:57:50 GMT
+</DOCHDR>
+<html>
+
+<head>
+
+<title>The Compost Product</title>
+
+</head>
+
+<body bgcolor="#ffff999" text="#006635" link="#993300" vlink="#CC0099">
+
+<body>
+<a name="top"></a>
+<center><img src="marbar1c.gif"></center>
+
+
+
+
+
+<UL><h1> The compost product:</h1></UL>
+
+<center><img src="marbar3.gif"></center>
+<br clear="all">
+<P>
+
+<center><h1><img src="marpansy.gif" align="bottom"></h1></center>
+<br clear="all">
+
+<center><img src="marbar3.gif"></center>
+<br clear="all">
+<P><BR><P>
+
+
+
+
+<p><h4> Biosolids compost is a clean, pathogen-free soil enhancer. The 
+
+product produced by the March Creek Waste Water Treatment Plant meets all New 
+
+York State and Federal standards. The material is sold throughout New York State as AllGro <tT><I>TM</I></TT>, &quot;an 
+
+all purpose organic compost &amp; natural fertilizer.&quot;</p>
+
+<p>
+
+Compost is a foundation element of organic and biological agriculture. As mentioned earlier is is weed free making it an ideal enhancer. It is particularly beneficial for sub-standard earth. Building contractors will find it ideal for mixing with soils of high clay and sand content. Landscapers and nursery  professionals will find it ideal to prevent weed growth when used as mulch. Turf professionals may use it as a dressing for golf courses and cemeteries enhance growth and endurance.</P>
+
+<p>
+
+Geneva residents may pickup compost for non-commercial use. The product may be also purchased in bulk quaniities. Contact the Marsh Creek Wastewater Plant at (315) 789-8040 for details.</p>
+</h4> 
+<p><BR><P> 
+
+<center><img src="marbar.gif"></center>
+<br clear="all">
+<P><BR><P><IMG SRC="marallgr.gif" aleign="left">
+
+<TABLE BORDER=10 CELLPADDING=10 CELLSPACING=10> 
+
+<CAPTION ALIGN=TOP><B>Recommended Compost Application</B></CAPTION> 
+
+<TR> 
+
+  <TD>Turf Establishment</TD> <TD> Incorporate 1-3 inches of compost into the top 4-6 inches of soil. Increase  compost for less fertile or sandy spoil.</TD> 
+
+</TR> 
+
+<TR> 
+
+  <TD>Turf Maintenance</TD> <TD>  Spread 1/3 inch of compost and rake in.</TD> 
+
+</TR> 
+
+<TR> 
+
+  <TD>Flower Gardens</TD> <TD>  Spread 1 inch of compost and mix before planting.</TD> 
+
+</TR> 
+
+<TR> 
+
+  <TD>Ornamentals</TD> <TD>  Spread 2-4 incches of compost two weeks before spring or fall planting.</TD> 
+
+</TR> 
+
+<TR> 
+
+  <TD>Tree Planting</TD> <TD> Mix 1 to 4 ration of compost to soil and use for backfill.</TD> 
+
+</TR> 
+
+<TR> 
+
+  <TD>Mulching</TD> <TD> Spread 2-3 inches over area to be covered.</TD> 
+
+</TR> 
+
+<TR> 
+
+  <TD>Potting</TD> <TD> Mix equal mixtures of compost and potting materials. Water before planting.</TD> 
+
+</TR> 
+
+<TR> 
+
+  <TD>Surface Cover</TD> <TD>  1 inch  of compost on 1000 square feet requires 3 cubic yards of compost</TD> 
+
+</TR> 
+
+</TABLE> 
+
+<P><BR> 
+
+
+
+<p>
+<center><img src="marbar.gif"></center>
+<br clear="all">
+<p>
+
+<center> <font size="+1">
+|<a href="index.htm#top"> Lead Page </a> |<a href="mar2.htm#top">  The Process </a>
+
+|<a href="mar3.htm#top"> The Product </a>
+
+|<a href="marsend.htm#top"> E-mail </a> |<a href="marfax.htm#top"> Fax </a>|<br>
+</font></center>
+
+<p>
+
+<center><img src="marbar.gif"></center>
+<p>
+<center>
+<p>
+<a href="http://www.spidergraphics.com"><img src="dgn.gif" align="bottom"></a>
+<br clear="all">
+
+<font size="2">
+Copyright 1996:<a href="http://www.spidergraphics.com"> Spider Graphics Corporation</a>
+ 
+<img src="line.gif" align="bottom"> Last updated June, 1996
+</font>
+</center>
+<br>
+<center><img src="marbar.gif"></center>
+</body>
+</html>
+
+</DOC>
+<DOC>
+<DOCNO>WT01-B01-4</DOCNO>
+<DOCOLDNO>IA073-000475-B029-2</DOCOLDNO>
+<DOCHDR>
+http://www.city.geneva.ny.us:80/marsend.htm 192.108.245.124 19970121041454 text/html 2371
+HTTP/1.0 200 OK
+Date: Tue, 21 Jan 1997 04:13:51 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2200
+Last-modified: Fri, 20 Sep 1996 17:42:54 GMT
+</DOCHDR>
+<HTML>
+<HEAD>
+<TITLE>Marsh Creek Waste Water Treatment Plant E-Mail</TITLE>
+</HEAD>
+
+<body bgcolor="#ffff999" text="#006635" link="#993300" vlink="#CC0099">
+
+<A NAME="top"></A>
+
+
+<CENTER>
+<H1>Contact Marsh Creek</H1>
+</CENTER>
+
+<center><img src="marbarf.gif"></center>
+<br clear="all">
+
+<BR> 
+<FONT SIZE=+1>
+<center>
+Enter your message in the areas provided below.<BR>
+Please fill out all of the fields.
+</center>
+</FONT>
+</CENTER>
+
+
+<FORM ACTION="http://205.232.34.1/spider/cgi-bin/formmail.pl" METHOD=POST>
+<INPUT TYPE="hidden" VALUE="gpe@vivanet.com" NAME="recipient">
+<INPUT TYPE="hidden" VALUE="From Marsh Creek HomePage" NAME="subject">
+<INPUT TYPE="hidden" VALUE="http://www.city.geneva.ny.us/marconfirm.html" NAME="redirect">
+
+<FONT SIZE=+1>
+<table border=0 cellpadding=3 cellspacing=3>
+<tr>
+<td>Your Name: </td>
+<td><input value="" size=60 name="name"></td>
+</tr>
+
+<tr>
+<td>Your Institution or Organization: </td>
+<td><input value="" size=60 name="instorg"></td>
+</tr>
+
+<tr>
+<td>Your E-Mail Address: </td>
+<td><input value="" size=60 name="from"></td>
+</tr>
+
+<tr>
+<td>Your Telephone Number:</td>
+<td><input value="" size=60 name="tele"></td>
+</tr>
+
+<tr>
+<td>Your FAX Number:</td>
+<td><input value="" size=60 name="fax"></td>
+</tr>
+
+<tr>
+<td>Your Postal Address:</td>
+<td><textarea name="address" rows=5 cols=60></textarea></td>
+</tr>
+
+<tr>
+<td>Subject of Message:</td>
+<td><input value="" size=60 name="usersubject"></td>
+</tr>
+
+<tr>
+<td>Your Message:</td>
+<td><textarea name="message" rows=10 cols=60></textarea></td>
+</tr>
+</table>
+
+<p>
+
+<CENTER><input type="submit" value="Send Message"> 
+<input type="reset" value="Clear Message"></CENTER>
+</FORM>
+</FONT>
+
+
+<P><BR><P>  
+
+
+<p>
+
+<center> <font size="+1">
+|<a href="index.htm#top"> Lead Page </a> |<a href="mar2.htm#top">  The Process </a>
+
+|<a href="mar3.htm#top"> The Product </a>
+
+|<a href="marsend.htm#top"> E-mail </a> |<a href="marfax.htm#top"> Fax </a>|<br>
+</font></center>
+
+<p> 
+
+<center><img src="marbar.gif"></center>
+
+<center><font size="2">
+Copyright 1996:<a href="http://www.spidergraphics.com"> Spider Graphics Corporation</a>
+ 
+<img src="line.gif" align="bottom"> Last updated June, 1996
+</font>
+</center>
+
+</body>
+</html>
+</DOC>
+<DOC>
+<DOCNO>WT01-B01-5</DOCNO>
+<DOCOLDNO>IA073-000475-B029-27</DOCOLDNO>
+<DOCHDR>
+http://www.city.geneva.ny.us:80/marfax.htm 192.108.245.124 19970121041502 text/html 1549
+HTTP/1.0 200 OK
+Date: Tue, 21 Jan 1997 04:14:01 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1378
+Last-modified: Tue, 09 Jul 1996 03:58:45 GMT
+</DOCHDR>
+<HTML>
+<HEAD>
+<TITLE>Marsh Creek Waste Water Treatment Plant FAX</TITLE>
+</HEAD>
+
+<body bgcolor="#ffff999" text="#006635" link="#993300" vlink="#CC0099">
+
+<A NAME="top"></A>
+ 
+
+<CENTER>
+<H2>Marsh Creek Treatment Plant</H2>
+</center>
+
+<center><img src="marbar3.gif"></center>
+<br clear="all">
+
+<center><FONT SIZE=+1>
+71 Doran Avenue<BR>
+Geneva, New York 14456 <BR>
+(315) 789-8040<BR>
+FAX (315) 789-4479
+<p></FONT></center>
+
+<center><img src="marbar3.gif"></center>
+<br clear="all">
+
+<UL>
+<P>
+ENTER YOUR NAME ___________________________________________
+<P>
+STREET _____________________________________________________
+<P>
+CITY _______________________STATE__________ZIP____________
+</CENTER>
+<P>
+This is an order for _____cubic yards.<BR>
+Please quote a price on the above order.<BR>
+Other needs or information requested???<BR><BR><BR><BR><BR><BR><BR>
+
+</UL>
+<P><BR><P> 
+
+
+
+<center> <font size="+1">
+|<a href="index.htm#top"> Lead Page </a> |<a href="mar2.htm#top">  The Process </a>
+
+|<a href="mar3.htm#top"> The Product </a>
+
+|<a href="marsend.htm#top"> E-mail </a> |<a href="marfax.htm#top"> Fax </a>|<br>
+</font></center>
+
+<p>
+
+<center><img src="marbar.gif"></center>
+
+
+<center><font size="2">
+Copyright 1996:<a href="http://www.spidergraphics.com"> Spider Graphics Corporation</a>
+ 
+<img src="line.gif" align="bottom"> Last updated June, 1996
+</font>
+</center>
+
+</body>
+</html>
+</DOC>
+<DOC>
+<DOCNO>WT01-B01-6</DOCNO>
+<DOCOLDNO>IA073-000475-B028-129</DOCOLDNO>
+<DOCHDR>
+http://www.city.geneva.ny.us:80/ 192.108.245.124 19970121041400 text/html 2407
+HTTP/1.0 200 OK
+Date: Tue, 21 Jan 1997 04:12:50 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2236
+Last-modified: Fri, 18 Oct 1996 17:33:56 GMT
+</DOCHDR>
+<html>
+<head>
+<META name="keywords" content="waste water, biosolids, waste treatment, compost, waste stream, waste water treatment, water pollution,seneca, geneva, marsh creek">
+
+<title>Marsh Creek Waste Water Treatment Plant</title>
+</head>
+<body bgcolor="#ffff999" text="#006635" link="#993300" vlink="#CC0099">
+
+
+
+
+<center><a name="top"><img src="marbar.gif" align="left"></a></center>
+
+<br clear="all">
+
+<img src="margenev.gif" align="left" hspace="35" vspace="10">
+<p></p><br><p></p><br>
+
+<h1> Marsh Creek</h1>
+
+<h1><a name="Marsh Creek Treatment Plant"> Waste Water Treatment Plant</a></h1>
+
+<p></p>
+
+<h5> 71 Doran Avenue, Geneva, New York 14456</h5>
+
+<p><br clear="all"></p>
+
+<center><a name="top"><img src="marbeda1.gif" align="left"></a></center>
+
+<p><br clear="all"><P><BR> 
+
+<center><h1><i> Environmentally working for you</i></h1></center>
+
+<p></p><p></p>
+
+<img src="marbldg1.gif" align="right">
+
+The Marsh Creek Waste Water Treatment Plant has been recognized by both the 
+
+EPA (Environmental Protection Agency) and the New York Water Pollution Control 
+
+Association for outstanding achievement and operation of this important 
+
+facility.
+
+<p></p> 
+
+Schools and youth organizations are welcome and encouraged to tour the Marsh 
+
+Creek facility. Arrangements can be made by calling Plant Superintendent 
+
+Gordon Eddington during business hours at (315) 789-8040.
+
+<p></p><br clear="all"><p></p>
+
+
+<h2> Composting Biosolids :</h2>
+
+<blockquote>
+
+<br clear="all">
+
+<h3>
+
+The <a href="mar2.htm">Process</a> Saves Land Fill Space and Money
+
+<p>
+
+Creates a Clean <a href="mar3.htm">Soil-Enhancement Product</a> for Sale
+
+<p>
+
+<a href="marsend.htm">Contacting</a> Marsh Creek
+
+</h3>
+
+</blockquote>
+
+
+
+
+
+<P><BR><P>
+
+<br><center><font size="+1">
+
+|<a href="#top"> Lead Page</a> |<a href="mar2.htm#top"> The Process</a> |
+
+<a href="mar3.htm#top"> The Product</a> |<a href="marsend.htm#top"> E-mail</a> 
+
+|<a href="marfax.htm#top"> Fax</a> |<br>
+
+</font></center>
+
+<br>
+
+<center><img src="marbar.gif" align="bottom"></center>
+
+<center><font size="2"> Copyright 1996:<a href="http://www.spidergraphics.com"> Spider Graphics Corporation</a><img src="line.gif" align="bottom"> Last updated June, 1996</font></center>
+
+
+</body>
+
+</html>
+
+</DOC>
+<DOC>
+<DOCNO>WT01-B01-7</DOCNO>
+<DOCOLDNO>IA055-000920-B021-181</DOCOLDNO>
+<DOCHDR>
+http://www.cstobesity.com:80/index.htm 206.17.17.53 19970109121024 text/html 2126
+HTTP/1.0 200 Document follows
+Date: Thu, 09 Jan 1997 12:17:22 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Tue, 20 Aug 1996 19:32:15 GMT
+Content-length: 1952
+</DOCHDR>
+<HTML>
+
+<!-- 
+	(c) Copyright 1996 LA Internet Corporation
+	Direct all questions to: info@lainet.com
+ -->
+
+
+<HEAD>
+<TITLE>THE CENTER FOR SURGICAL TREATMENT OF OBESITY</TITLE>
+<meta name ="keywords" content ="obesity, weight reduction weight loss diet bariatric stomach stapling yo-yo syndrome overweight surgery obesity gene gastroplasty gastric bypass eating disorders body mass index (BMI) yoda ideal weight lose and gain body fat gastric reduction fat optifast/medifast weight watchers hypoventrilatio sundrome overeating binging anorexia gastric banding super obese weight gain weight control liposuction sleep apnea snoring panniculis">
+</HEAD>
+
+<BODY bgcolor="#6699cc" background=tile.gif text="#b905b5" link="#CC0000" alink="#FF3300" vlink="#CC0000">
+
+ <IMG SRC="/cgi-bin/icounter.cgi?malfobi">
+
+
+<IMG SRC="afblu1s.jpg" ALIGN=left><BR>
+
+
+<IMG SRC="cst.gif"><BR>
+<FONT COLOR=#FFFFFF>Center for Surgical Treatment of Obesity</FONT>
+
+<B>
+<PRE>   <A HREF="intro.htm"><IMG SRC="intb.gif" border=0 align=center></A>
+          <A HREF="patient.htm"><IMG SRC="patb.gif" border=0 align=center></A>
+               <A HREF="clinic.htm"><IMG SRC="clib.gif" border=0 align=center></A>
+    	<A HREF="request.htm"><IMG SRC="conb.gif" border=0 align=center></A>
+</PRE>
+</B>
+
+<PRE>
+
+</PRE>
+
+<IMG SRC="corbef2.jpg" ALIGN=LEFT>
+<PRE>
+
+</PRE>
+<B><I>"I look at these<BR>
+old pictures and<BR> 
+can't believe it was me."</I><P>
+Cordetta Spells, San Francisco</B>
+</PRE>
+<PRE>
+
+
+
+
+</PRE>
+<center>
+<font color -"#000000">
+<fig>&copy</fig>1996 Center For Surgical Treatment of Obesity,<br> 10230 E. Artesia Boulevard., Suite 209 <BR> Bellflower, CA 90706 <BR>TEL. (800) 564.3624 
+<br>
+<a href="mailto:info@cstobesity.com">info@cstobesity.com</A>
+</FONT><p>
+
+<font color -"#000000">
+<i>Web Page Designed By <a href="http://www.lainet.com">L.A. Internet</a></i>
+</font>
+</center>
+
+</BODY>
+</HTML>
+
+
+
+
+
+
+</DOC>
+<DOC>
+<DOCNO>WT01-B01-8</DOCNO>
+<DOCOLDNO>IA055-000920-B014-312</DOCOLDNO>
+<DOCHDR>
+http://www.cstobesity.com:80/intro.htm 206.17.17.53 19970109113145 text/html 8736
+HTTP/1.0 200 Document follows
+Date: Thu, 09 Jan 1997 11:39:27 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Thu, 18 Jul 1996 21:47:43 GMT
+Content-length: 8562
+</DOCHDR>
+
+<HEAD>
+<TITLE>Introduction</TITLE>
+</HEAD>
+
+<BODY bgcolor="#6699cc" background="tile.gif" text="#000000" link="#ffffff" alink="#FF3300" vlink="#CC0000">
+
+<PRE>
+
+</PRE>
+<CENTER>
+<H1>The Center for Surgical Treatment of Obesity</H1>
+</CENTER>
+In 1981, the Center for Surgical Treatment of Obesity (CSTO) opened in Los Angeles 
+as a medical practice specially designed to assist in the treatment of and research 
+and education for the morbidly obese.  An additional office opened in 1990 in the 
+Long Beach area.  However, the Center's reputation for successfully treating severely overweight 
+people extends beyond Southern California; patients are referred from all states 
+in the Continental US as well as from abroad.<BR>
+<BR>
+Bariatric Surgery is the exclusive concern of the Center for Surgical Treatment of 
+Obesity.  This concentrated focus has provided Dr. Mathias Fobi with the basis for 
+perfecting the Fobi-Pouch for Obesity procedure and providing his patients with a 
+safe, well tolerated and very effective method to lose weight and maintain weight loss.<BR>
+<BR>
+The Medical Staff of the CSTO continues research and education to treat obesity and 
+provides information that will assist in unlocking the genetic mystery behind obesity. 
+ Dr.Fobi is internationally recognized for his efforts and is frequently asked to 
+lecture on his findings..  The CSTO participates in several professional organizations, 
+including the American Society for Bariatric Surgery, the North American Association 
+for the Study of Obesity and the American College of Clinical Nutrition.<BR>
+<BR>
+Dr. Mathias Fobi received his M.D. at the University of Cincinnati in 1974.  His advanced 
+training was at Martin Luther King Jr. Hospital, Los Angeles (residency and internship), 
+Childrens Hospital of Los Angeles and Cottage Hospital, Santa Barbara.  He is board certified by the American Board of Surgery and is a Fellow of the American 
+College of Surgeons (F.A.C.S.).  Additionally, he is a member of the American Medical 
+Association, the Los Angeles Medical Association, the National Medical Association, 
+the California Medical Association,  the Charles R. Drew Society, the Los Angeles Surgical 
+Society, the North American Association for the Study of Obesity, the American Society 
+of Bariatric Surgery and the American College of Clinical Nutrition.<BR>
+<BR>
+Dr. Fobi, along with CSTO medical staff Dr.s Hoil Lee and Ronald Holness, believe 
+that through increased education, research and clinical treatment, there is hope 
+for the clinically morbid obese patient.
+<P>
+
+<H1>Patient Testimonials</H1>
+At the Center for Surgical Treatment of Obesity, we have learned from our patients, 
+how, in their years of battling weight problems, they were very isolated and shied 
+away from any attention.  They were reluctant to talk about themselves or the troubles 
+they've experienced while being overweight.  Now that these same patients have conquered 
+their weight problem, they want to tell the world about all the wonderful things 
+that are happening to them.  And we say that a picture is worth a thousand words 
+-- but here is a little of both, straight from some of our patients.<BR>
+<BR>
+
+<img align = left src = "bkandy.jpg"><pre>
+
+
+</pre><DD> <STRONG>Kandy Wendell</STRONG> knew that being overweight was killing her. <BR> She spent more than her time in an Emergency 
+Room from significant health problems associated with being overweight.  She suffered 
+from high blood pressure, diabetes, agonizing headaches and she had difficulty breathing and walking.  At this point, she weighed 350 lbs.<BR>
+<BR>
+"I was a true couch potato," she admits, "I would come home from work and go immediately 
+to bed because I was so exhausted.-- Can you imagine what's it like to carry an extra 
+200 lbs?  It's like being on a chain gang!"  If she didn't get rid of her excess 
+weight, she dreaded what her life was going to be.<BR>
+<BR>
+She remembers the day that she overheard a coworker, also a patient of the Center 
+for Surgical Treatment of Obesity, being complimented on how well she looked after 
+losing weight.  "I had to know how she did it, " thought Kandy.  When she did find 
+out, she took the information to her family physician who helped her determine that this method 
+could help her, too.  Her family was also supportive, so it made it easier to make 
+this decision -- one that she doesn't regret.  <BR>
+<BR>
+Kandy scheduled her surgery in February 1994 and , at age 47, maintains her weight 
+at 160 lbs.<BR>
+<BR>
+"I'm proud of my decision and I am actually participating in life, now."  Walking, 
+dancing and an increased social life are now part of her regular activities.  Kandy 
+talks about what it was like to be out with friends and only being able to watch 
+from the fringes because her weight and health problems limited her from doing things that 
+are second nature now.<BR>
+<BR>
+"I really believe that I was given a second chance at life.  I feel better and I look 
+forward to every day."  Her medical problems are a thing of the past, too.  Her doctors 
+report that her medical numbers (high blood pressure, diabetes, triglycerides, cholesterol) are text book perfect. 
+<A HREF="kandy.htm">See Kandy today</A>.<BR>
+<BR>
+
+<PRE>
+
+</PRE>
+<IMG SRC="bken.jpg" ALT="Ken Before">
+ Health problems also plagued <B>Ken Sullivan</B>, too.  Within three years of a post coronary 
+bypass, he started again to have problems.  The wife of a friend, also a physician, 
+was a patient of Dr. Fobi's.  He recommended that Ken find out if he would be considered a suitable candidate.<BR>
+<BR>
+At 352 lbs, Ken realized that he had few options left.  Weight problems confounded 
+him most of his life.  "I was always on a diet with an 'up and down' success -- the 
+more I would lose, the more I would gain back."<BR>
+<BR>
+In June 1994, at age 43, Ken had the surgery.  Two years post surgery, he maintains 
+his weight at 187 lbs.<BR>
+<BR>
+Of course, he's had some help maintaining his weight.  Patients who have the burden 
+of the excess weight lifted find out it's much easier and more enjoyable to be active. 
+ Within 30 days of the surgery, his physician friend helped him on a bike, and he 
+hasn't stopped yet!<BR>
+<BR>
+"I love it!  I ride daily now.  The first rides were hard but it's something I really 
+enjoy now."  Ken will be participating in a "Ride Across America"  and he has also 
+ridden in Spain and Italy.  This is something he wouldn't have even comprehended 
+doing at 163 lbs heavier.<BR>
+<BR>
+And his only regret:  "I wish I would have had the surgery 10 years ago!"
+<A HREF="ken.htm">See Ken today</A>.<BR>
+<BR>
+
+<PRE>
+
+</PRE>
+<IMG SRC="franf.jpg" ALT="Fran Before">
+<STRONG>Fran Caban</STRONG> was the epitomy of a "little person trapped in a big body."  At age 48, 
+she currently weighs a slim 114 lbs.  Before Fran had her surgery in September 1989, 
+she weighed 319 lbs.  She proudly confesses that she dropped from a size 52 dress 
+to a size 4!<BR>
+<BR>
+Fran started having weight problems after she had had her children.  "I started gaining 
+weight and became depressed when I couldn't lose it -- then I'd turn to food for 
+comfort."  Health problems set in.  She was having back problems, embolisms, leg 
+clots and gall bladder attacks.  "My liver was totally encased in fat."<BR>
+<BR>
+Fran was also aware that people treated her differently because she was overweight. 
+ She was ignored or treated rudely by people who didn't realize that it wasn't her 
+choice to remain overweight.<BR>
+<BR>
+Fran started noticing a woman in her church who was losing weight and got up the courage 
+to ask her how she did it.  At that point, she made a conscious decision that this 
+was something she needed to do, too.  "This decision changed my life -- it saved 
+my life!"<BR>
+<BR>
+The surgery is only the beginning she reminds anyone who is considering this.  "I 
+changed my eating habits and I exercise now.  But now, I can do things with my grandkids 
+that I couldn't do with my kids."
+<A HREF="fran.htm">See Fran today</A>.<BR>
+
+<CENTER>
+<PRE>
+
+<A HREF=index.htm><IMG SRC="homb.gif" border=0 ALT=Home></A>  <A HREF="patient.htm"><IMG SRC="patb.gif" border=0 ALT="Patient Info."></A>  <A HREF="clinic.htm"><IMG SRC="clib.gif" border=0 ALT="Clinical Info."></A>  <A HREF="request.htm"><IMG SRC="conb.gif" border=0 ALT="Confidential Contact"></A>
+
+</PRE>
+</CENTER>
+
+</BODY>
+
+</HTML>
+
+
+
+
+
+</DOC>
+<DOC>
+<DOCNO>WT01-B01-9</DOCNO>
+<DOCOLDNO>IA055-000920-B016-88</DOCOLDNO>
+<DOCHDR>
+http://www.cstobesity.com:80/patient.htm 206.17.17.53 19970109113943 text/html 10858
+HTTP/1.0 200 Document follows
+Date: Thu, 09 Jan 1997 11:47:24 GMT
+Server: NCSA/1.5
+Content-type: text/html
+Last-modified: Fri, 13 Sep 1996 23:15:40 GMT
+Content-length: 10683
+</DOCHDR>
+
+<HEAD>
+<TITLE>Patient Information</TITLE>
+</HEAD>
+
+<BODY bgcolor="#6699cc" background="tile.gif" text="#000000" link="#ffffff" alink="#FF3300" vlink="#CC0000">
+
+
+<PRE>
+
+</PRE>
+
+<CENTER>
+<FONT COLOR=#000000><H1>Patient Information</H1></FONT>
+</CENTER>
+
+If you are considering surgery for treatment of severe obesity, you will want to make 
+an appointment to discuss this further.  The initial visit at the Center for Surgical 
+Treatment for Obesity is free, provided that you have had no other bariatric surgery.<BR>
+<BR>
+At this consultation, Dr. Fobi and the rest of the staff will make a comprehensive 
+medical evaluation to determine if you would be a successful candidate for the surgery. 
+You would be considered a good candidate if:<BR>
+<UL>
+<LI> you are at least 75 lbs over your ideal weight;<BR>
+<LI> you have not had success with other diet plans;<BR>
+<LI> you are between the ages of 10 and 75;<BR>
+<LI> you do not have a drug or alcohol problem  (Patients will be      considered If they 
+have completed treatment and/or have at least one     year of  sobriety); <BR>
+<LI> you do not suffer from any severe psychoemotional or medical problems<BR>
+that would make surgery unnecessarily risky.<BR>
+<BR>
+</UL>
+Many insurance companies recognize the long-term benefits of this operation and provide 
+coverage for it.  However, as with any surgery, preauthorization is necessary.  This 
+can take as little as 2 to 5 weeks, or up to a year, based on your insurance company's philosophy  on this as a weight loss option.  Surgery will be scheduled accordingly. 
+ If you do not have insurance coverage, and still want to have the surgery, you will 
+be given a list of fees that you will need to pay prior to surgery.<BR>
+<BR>
+The hospital stay consists of 4 days, barring any complications.  You would be admitted 
+on the day of the surgery and be discharged after four days.   The Fobi Pouch operation 
+is a vertical banded gastric bypass which reduces the stomach size from its original 3000 cc capacity to 30 cc.  When you eat, the pouch will fill quickly, giving 
+a full, satiated feeling.<BR>
+<BR>
+While each person recovers, from any illness or surgery, at a differing rate, it generally 
+takes about six weeks to recover from any major abdominal operation.  At first, while 
+your stomach is healing, you will be restricted on the amount and type of foods you can eat.   As it heals, you will gradually be introduced to your normal types 
+of foods, however, the quantity will be drastically reduced.  However, because the 
+size of your stomach has also been decreased, you will not feel hungry, which is 
+typical in conventional diets.  You will consult with the patient counselor prior to leaving 
+the hospital to help you with dietary changes and expectations.  You will also be 
+given a vitamin regimen to begin.<BR>
+<BR>
+You will be encouraged to begin light activity, especially walking.  This is to aid 
+in the healing process of the surgery as well as beginning the lifestyle changes 
+that makes this program successful.  However, as the weight comes off, you will find 
+that doing things, like walking, will be easier and more enjoyable for you.<BR>
+<BR>
+If you have a desk job, you can expect to return to work within three weeks.  If your 
+job requires more physical activity, such as bending, lifting or stretching, you 
+may return to work in six weeks.<BR>
+<BR>
+The Center For Surgical Treatment of Obesity has a patient counselor on staff to assist you in all phases of your treatment.  Debbie Kearns is a former patient who has lost 135 lbs since her surgery in 1995.  Debbie will answer any questions about pre and post surgery and will be there to help all patients during their weight loss period.  This may range from diet questions , surgery expectations to the emotional rollercoaster you may have as you encounter the changes that accompany your weight loss.<BR>
+<BR>
+Your association with the Center for Surgical Treatment of Obesity <STRONG>only begins</STRONG>
+ with your surgery.  Follow up visits are scheduled at seven days post surgery, six 
+weeks, three months, twelve months and yearly thereafter.  There is no charge for 
+these visits as it is important for the Center to track your progress.<BR>
+<BR>
+The Center also schedules monthly support group meetings in the Long Beach, CA and 
+Las Vegas areas. These meetings provide an opportunity for patients, and those awaiting 
+surgery, to work through problems that may be encountering as well as reveling in 
+the joy of others' successes.  For patients residing out of the area, a monthly newsletter 
+helps keep these patients supported and they are encouraged to call the office monthly, 
+to check in with the Center staff.<BR>
+<BR>For more information on this surgery, please fill out our <A HREF="request.htm">Confidential Contact Form</A> or you may 
+contact the Center for Surgical Treatment of Obesity at 1-(800) 564-3624.
+
+
+
+<H1>Introduction</H1>
+
+Americans have an obsession about dieting.  There are countless articles and advertisement 
+for programs and products offering solutions to our weight problems.<BR>
+<BR>
+For the severely overweight person, clinically termed as morbidly obese at 75 lbs 
+over ideal weight, diets offer a hollow promise of success.  <BR>
+<BR>
+We hear of people talking about losing the same 15 lbs, over and over again.  This 
+"lose and gain" cycle is known as the <STRONG>yo-yo syndrome</STRONG>
+.   As difficult as dieting may be for the person needing only to lose 15 lbs, what 
+can this be like for the person needing to lose 75, 100, 150 lbs or  more?<BR>
+<BR>
+The severely overweight person faces challenges that a person, at their ideal weight, 
+cannot fathom.  Many may be on a starvation diet while friends and relatives scrutinize 
+their eating habits -- convinced that they are sneaking food.  Overweight people 
+also face discrimination -- in jobs and social situations; even the clothes they need 
+usually cost more!  Many can't enjoy the simple things that most Americans take for 
+granted -- like going to the movies, riding on a roller coaster, even walking up 
+stairs or tieing shoes is a major ordeal.<BR>
+<BR>
+As a person gains weight and becomes more difficult to move around, the inactivity 
+results in an increased  weight gain.  It becomes a vicious cycle.<BR>
+<BR>
+There has been much attention to the recent discovery of the "obesity gene."  This 
+coincides with research conducted by Dr. Fobi to indicate that Obesity is a hereditary 
+disease. This can explain how an entire family, except one person, can be overweight, 
+while diet and other lifestyle habits are the same.  Some of the other findings of 
+Dr. Fobi include:<BR>
+1) Less than 2% of the Severely Obese population is affected by what we call "hormonal 
+  imbalance."<BR>
+2) Less than 2% of the Severely  Obese population has what can be classified as morbid 
+ obesity due to  an eating disorder.<BR>
+3) While obesity is not a psychological or psychiatric problem, people who are obese 
+  may be more prone to psychological or psychiatric disorders.<BR>
+<STRONG><CITE>And most importantly,<BR>
+</CITE></STRONG>
+4) Obesity is not a problem of willpower.  Obesity is a disease!  It can be treated 
+by a <BR>
+person with strong willpower, but the success rates are still less than .01%.<BR>
+<BR>
+The National Institute of Health makes regular studies of obesity.  In 1991 and '92, 
+consensus statements were issued rebutting conventional diets for morbid obesity. 
+ In summary, these two statements had two important facts: 1) that diets alone have 
+not been successful for the morbidly obese and 2) in the first year,  66% of dieters will 
+regain their weight loss.  When you consider a diet program, consider this fact: 
+No diet program is a permanent answer to weight loss, however, bariatric surgery 
+is the only method endorsed to provide such a solution for the morbidly obese.<BR>
+<BR>
+Bariatrics is the branch of medicine that deals with the treatment of obesity.  The 
+physicians at  the Center for Surgical Treatment of Obesity are Bariatric Surgeons, 
+meaning that the obesity treatment is through surgery, combined with lifestyle changes. 
+ There are no medications, fad diets, herbs, hypnosis, etc. involved.<BR>
+<BR>
+Bariatric Surgery had a strong popular awareness in the 1960's when "stomach stapling" 
+was at an all time peak.  But  the history of bariatric surgery has roots beginning 
+over a hundred years ago when this surgery was prescribed for patients suffering 
+from ulcers.  It was discovered that the surgery had a built in side-effect; the patients 
+also lost weight!   In 1981, Dr. Mathias Fobi opened the Center for Surgical Treatment 
+of Obesity for the purpose of education, treatment and continuing research of obesity.  The procedure exclusively performed by the Center for Surgical Treatment of Obesity 
+is the vertical transected gastric bypass with a silastic ring stoma, more commonly 
+referred to as "the Fobi-Pouch."<BR>
+<BR>
+Many people may consider Bariatric Surgery to be a radical approach to combating a 
+problem of "willpower."  In reviewing this information, and with physicians and patients 
+who show long term, successful results of the procedures, you can determine that 
+the complications of obesity are greater than the complications of this surgery.  Bariatric 
+Surgery isn't for everyone, but for those who do have the surgery and lose weight, 
+they also lose the symptoms of major medical conditions.  These  include:  high blood pressure, increased incidence of cancer, diabetes, strokes and heart disease, circulatory 
+problems, sleep apnea, pulmonary problems, etc.<BR>
+<BR>
+In the 15 years of operation,  Dr. Fobi has found this version of bariatric surgery 
+to be most effective for his patients.  This procedure has eliminated many of the 
+common fallacies about bariatric surgery, such as "staples bursting" or "stomach 
+stretching" etc.  Over 6,000 patients have been treated since the Center opened.<BR>
+<BR>
+If you, or a friend or loved one, suffers from morbid obesity, we encourage you to 
+visit our other web pages.  This is the first step in taking control of your life.<BR>
+
+<CENTER>
+<PRE>
+
+<A HREF=index.htm><IMG SRC="homb.gif" border=0 ALT=Home></A>  <A HREF="intro.htm"><IMG SRC="intb.gif" border=0 ALT="Introduction"></A>  <A HREF="clinic.htm"><IMG SRC="clib.gif" border=0 ALT="Clinical Info."></A>  <A HREF="request.htm"><IMG SRC="conb.gif" border=0 ALT="Confidential Contact"></A>
+
+</PRE>
+</CENTER>
+
+
+</BODY>
+
+</HTML>
+
+
+
+</DOC>

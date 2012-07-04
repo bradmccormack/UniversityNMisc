@@ -1,0 +1,55 @@
+/****************************************************************************
+* COSC2138/CPT220 - Programming Principles 2A
+* Study Period 2  2010 Assignment #2 - index program
+* Full Name        : EDIT HERE
+* Student Number   : EDIT HERE
+* Course Code      : EDIT HERE
+* Program Code     : EDIT HERE
+* Start up code provided by the CTeach Team
+****************************************************************************/
+-----------------------------------------------------------------------------
+If selected, do you grant permission for your assignment to be released as an
+anonymous student sample solution?
+-----------------------------------------------------------------------------
+
+Yes/No
+
+-----------------------------------------------------------------------------
+Documentation of my implemented requirements:
+-----------------------------------------------------------------------------
+
+Requirement  1 - Command line args  : Yes/No
+Requirement  2 - Load data          : Yes/No
+Requirement  3 - Main menu          : Yes/No
+Requirement  4 - Index summary      : Yes/No
+Requirement  5 - Search index       : Yes/No
+Requirement  6 - Index report       : Yes/No
+Requirement  7 - Stemming report    : Yes/No
+Requirement  8 - Stopping report    : Yes/No
+Requirement  9 - Delete stop words  : Yes/No
+Requirement 10 - Exit               : Yes/No
+Requirement 11 - Return to menu     : Yes/No
+Requirement 12 - Makefile           : Yes/No
+Requirement 13 - Memory leaks       : Yes/No
+Requirement 14 - Buffer handling    : Yes/No
+Requirement 15 - Input validation   : Yes/No
+Requirement 16 - Coding conventions : Yes/No
+Requirement 19 - New linked list    : Yes/No
+
+-----------------------------------------------------------------------------
+Known bugs:
+-----------------------------------------------------------------------------
+
+None/EDIT HERE
+
+-----------------------------------------------------------------------------
+Assumptions:
+-----------------------------------------------------------------------------
+
+None/EDIT HERE
+
+-----------------------------------------------------------------------------
+Any other notes for the marker:
+-----------------------------------------------------------------------------
+
+None/EDIT HERE

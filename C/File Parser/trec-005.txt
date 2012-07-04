@@ -1,0 +1,585 @@
+<DOC>
+<DOCNO>WT01-B01-1</DOCNO>
+<DOCOLDNO>IA073-000475-B029-48</DOCOLDNO>
+<DOCHDR>
+http://www.city.geneva.ny.us:80/index.htm 192.108.245.124 19970121041510 text/html 2407
+HTTP/1.0 200 OK
+Date: Tue, 21 Jan 1997 04:14:08 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2236
+Last-modified: Fri, 18 Oct 1996 17:33:56 GMT
+</DOCHDR>
+<html>
+<head>
+<META name="keywords" content="waste water, biosolids, waste treatment, compost, waste stream, waste water treatment, water pollution,seneca, geneva, marsh creek">
+
+<title>Marsh Creek Waste Water Treatment Plant</title>
+</head>
+<body bgcolor="#ffff999" text="#006635" link="#993300" vlink="#CC0099">
+
+
+
+
+<center><a name="top"><img src="marbar.gif" align="left"></a></center>
+
+<br clear="all">
+
+<img src="margenev.gif" align="left" hspace="35" vspace="10">
+<p></p><br><p></p><br>
+
+<h1> Marsh Creek</h1>
+
+<h1><a name="Marsh Creek Treatment Plant"> Waste Water Treatment Plant</a></h1>
+
+<p></p>
+
+<h5> 71 Doran Avenue, Geneva, New York 14456</h5>
+
+<p><br clear="all"></p>
+
+<center><a name="top"><img src="marbeda1.gif" align="left"></a></center>
+
+<p><br clear="all"><P><BR> 
+
+<center><h1><i> Environmentally working for you</i></h1></center>
+
+<p></p><p></p>
+
+<img src="marbldg1.gif" align="right">
+
+The Marsh Creek Waste Water Treatment Plant has been recognized by both the 
+
+EPA (Environmental Protection Agency) and the New York Water Pollution Control 
+
+Association for outstanding achievement and operation of this important 
+
+facility.
+
+<p></p> 
+
+Schools and youth organizations are welcome and encouraged to tour the Marsh 
+
+Creek facility. Arrangements can be made by calling Plant Superintendent 
+
+Gordon Eddington during business hours at (315) 789-8040.
+
+<p></p><br clear="all"><p></p>
+
+
+<h2> Composting Biosolids :</h2>
+
+<blockquote>
+
+<br clear="all">
+
+<h3>
+
+The <a href="mar2.htm">Process</a> Saves Land Fill Space and Money
+
+<p>
+
+Creates a Clean <a href="mar3.htm">Soil-Enhancement Product</a> for Sale
+
+<p>
+
+<a href="marsend.htm">Contacting</a> Marsh Creek
+
+</h3>
+
+</blockquote>
+
+
+
+
+
+<P><BR><P>
+
+<br><center><font size="+1">
+
+|<a href="#top"> Lead Page</a> |<a href="mar2.htm#top"> The Process</a> |
+
+<a href="mar3.htm#top"> The Product</a> |<a href="marsend.htm#top"> E-mail</a> 
+
+|<a href="marfax.htm#top"> Fax</a> |<br>
+
+</font></center>
+
+<br>
+
+<center><img src="marbar.gif" align="bottom"></center>
+
+<center><font size="2"> Copyright 1996:<a href="http://www.spidergraphics.com"> Spider Graphics Corporation</a><img src="line.gif" align="bottom"> Last updated June, 1996</font></center>
+
+
+</body>
+
+</html>
+
+</DOC>
+<DOC>
+<DOCNO>WT01-B01-2</DOCNO>
+<DOCOLDNO>IA073-000475-B028-155</DOCOLDNO>
+<DOCHDR>
+http://www.city.geneva.ny.us:80/mar2.htm 192.108.245.124 19970121041428 text/html 2951
+HTTP/1.0 200 OK
+Date: Tue, 21 Jan 1997 04:13:21 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2780
+Last-modified: Tue, 30 Jul 1996 14:50:09 GMT
+</DOCHDR>
+<html>
+<head>
+
+<title>The Compost Process</title>
+
+</head>
+
+<body bgcolor="#ffff999" text="#006635" link="#993300" vlink="#CC0099">
+
+<body> 
+<a name="top"></a> 
+
+
+
+
+<UL><h1> The compost process:</h1></UL> 
+
+<br clear="all">
+<P> 
+
+<center><img src="marproce.gif"></center>
+<br clear="all">
+<P>
+
+<center><img src="marbar3.gif"></center>
+<br clear="all">
+<P><BR><P><BLOCKQUOTE>  
+
+
+
+
+
+<img src="martract.gif" align="left" hspace=10 >The compost process combines the natural organic materials of sawdust with 
+
+sludge, the bi-product of waste water treatment. Over a period of 30 days the 
+
+mixture of organic materials is processed within a special reactor silo. Forced 
+
+air enhances the work of normal bacteria to break down the wood and waste in a 
+
+manner similar to leaves turning to soil on the forest floor. The process, 
+
+completed under the controlled conditions of the reactor, is much faster. Once 
+
+the mixtue is allowed to cure for another 20 days, it is then ready to use as a soil enhancer.
+
+<p>
+
+The sawdust is used with an equal mix of biosolids to make the compost. Sawdust is a bi-product of the lumber industry and, like sludge, was previously disposed of at a land fill. The sawdust, because of its fine texture, breaks down faster than other amendments such as wood chips, that may also be used in the composting process, Sawdust also provides a consistent compost which is very important to many users, especially golf courses, where it is used in the most demanding situations such as on their greens. Compost applied properly will enhance growth of grass, flowers, shrubs, etc. by improving the basic soils.</p>
+
+<p>
+
+Recycling is good for the environment and in many cases good business. Prior to making compost, the City of Geneva spent approximately $160,000 in land fill fees per year to dispose of the waste water treatment sludge. The operation of making compost costs approximately $90,000 per year and the final compost product is sold for nearly half that amount. In short, recycling netted a savings of approximately $110,000 per year over the previous manner of doing business.</BLOCKQUOTE>
+
+</p>
+
+<p>
+
+
+
+<p>
+<center><img src="marbarf.gif"></center>
+<br clear="all">
+<p>
+
+<center> <font size="+1">
+|<a href="index.htm#top"> Lead Page </a> |<a href="mar2.htm#top">  The Process </a>
+
+|<a href="mar3.htm#top"> The Product </a>
+
+|<a href="marsend.htm#top"> E-mail </a> |<a href="marfax.htm#top"> Fax </a>|<br>
+</font></center>
+
+
+<p>
+<center>
+<p>
+<a href="http://www.spidergraphics.com"><img src="dgn.gif" align="bottom"></a>
+<br clear="all">
+
+<font size="2">
+Copyright 1996:<a href="http://www.spidergraphics.com"> Spider Graphics Corporation</a>
+ 
+<img src="line.gif" align="bottom"> Last updated June, 1996
+</font>
+</center>
+<br>
+
+</body>
+</html>
+
+</DOC>
+<DOC>
+<DOCNO>WT01-B01-3</DOCNO>
+<DOCOLDNO>IA073-000475-B028-184</DOCOLDNO>
+<DOCHDR>
+http://www.city.geneva.ny.us:80/mar3.htm 192.108.245.124 19970121041442 text/html 3616
+HTTP/1.0 200 OK
+Date: Tue, 21 Jan 1997 04:13:38 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 3445
+Last-modified: Tue, 09 Jul 1996 03:57:50 GMT
+</DOCHDR>
+<html>
+
+<head>
+
+<title>The Compost Product</title>
+
+</head>
+
+<body bgcolor="#ffff999" text="#006635" link="#993300" vlink="#CC0099">
+
+<body>
+<a name="top"></a>
+<center><img src="marbar1c.gif"></center>
+
+
+
+
+
+<UL><h1> The compost product:</h1></UL>
+
+<center><img src="marbar3.gif"></center>
+<br clear="all">
+<P>
+
+<center><h1><img src="marpansy.gif" align="bottom"></h1></center>
+<br clear="all">
+
+<center><img src="marbar3.gif"></center>
+<br clear="all">
+<P><BR><P>
+
+
+
+
+<p><h4> Biosolids compost is a clean, pathogen-free soil enhancer. The 
+
+product produced by the March Creek Waste Water Treatment Plant meets all New 
+
+York State and Federal standards. The material is sold throughout New York State as AllGro <tT><I>TM</I></TT>, &quot;an 
+
+all purpose organic compost &amp; natural fertilizer.&quot;</p>
+
+<p>
+
+Compost is a foundation element of organic and biological agriculture. As mentioned earlier is is weed free making it an ideal enhancer. It is particularly beneficial for sub-standard earth. Building contractors will find it ideal for mixing with soils of high clay and sand content. Landscapers and nursery  professionals will find it ideal to prevent weed growth when used as mulch. Turf professionals may use it as a dressing for golf courses and cemeteries enhance growth and endurance.</P>
+
+<p>
+
+Geneva residents may pickup compost for non-commercial use. The product may be also purchased in bulk quaniities. Contact the Marsh Creek Wastewater Plant at (315) 789-8040 for details.</p>
+</h4> 
+<p><BR><P> 
+
+<center><img src="marbar.gif"></center>
+<br clear="all">
+<P><BR><P><IMG SRC="marallgr.gif" aleign="left">
+
+<TABLE BORDER=10 CELLPADDING=10 CELLSPACING=10> 
+
+<CAPTION ALIGN=TOP><B>Recommended Compost Application</B></CAPTION> 
+
+<TR> 
+
+  <TD>Turf Establishment</TD> <TD> Incorporate 1-3 inches of compost into the top 4-6 inches of soil. Increase  compost for less fertile or sandy spoil.</TD> 
+
+</TR> 
+
+<TR> 
+
+  <TD>Turf Maintenance</TD> <TD>  Spread 1/3 inch of compost and rake in.</TD> 
+
+</TR> 
+
+<TR> 
+
+  <TD>Flower Gardens</TD> <TD>  Spread 1 inch of compost and mix before planting.</TD> 
+
+</TR> 
+
+<TR> 
+
+  <TD>Ornamentals</TD> <TD>  Spread 2-4 incches of compost two weeks before spring or fall planting.</TD> 
+
+</TR> 
+
+<TR> 
+
+  <TD>Tree Planting</TD> <TD> Mix 1 to 4 ration of compost to soil and use for backfill.</TD> 
+
+</TR> 
+
+<TR> 
+
+  <TD>Mulching</TD> <TD> Spread 2-3 inches over area to be covered.</TD> 
+
+</TR> 
+
+<TR> 
+
+  <TD>Potting</TD> <TD> Mix equal mixtures of compost and potting materials. Water before planting.</TD> 
+
+</TR> 
+
+<TR> 
+
+  <TD>Surface Cover</TD> <TD>  1 inch  of compost on 1000 square feet requires 3 cubic yards of compost</TD> 
+
+</TR> 
+
+</TABLE> 
+
+<P><BR> 
+
+
+
+<p>
+<center><img src="marbar.gif"></center>
+<br clear="all">
+<p>
+
+<center> <font size="+1">
+|<a href="index.htm#top"> Lead Page </a> |<a href="mar2.htm#top">  The Process </a>
+
+|<a href="mar3.htm#top"> The Product </a>
+
+|<a href="marsend.htm#top"> E-mail </a> |<a href="marfax.htm#top"> Fax </a>|<br>
+</font></center>
+
+<p>
+
+<center><img src="marbar.gif"></center>
+<p>
+<center>
+<p>
+<a href="http://www.spidergraphics.com"><img src="dgn.gif" align="bottom"></a>
+<br clear="all">
+
+<font size="2">
+Copyright 1996:<a href="http://www.spidergraphics.com"> Spider Graphics Corporation</a>
+ 
+<img src="line.gif" align="bottom"> Last updated June, 1996
+</font>
+</center>
+<br>
+<center><img src="marbar.gif"></center>
+</body>
+</html>
+
+</DOC>
+<DOC>
+<DOCNO>WT01-B01-4</DOCNO>
+<DOCOLDNO>IA073-000475-B029-2</DOCOLDNO>
+<DOCHDR>
+http://www.city.geneva.ny.us:80/marsend.htm 192.108.245.124 19970121041454 text/html 2371
+HTTP/1.0 200 OK
+Date: Tue, 21 Jan 1997 04:13:51 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 2200
+Last-modified: Fri, 20 Sep 1996 17:42:54 GMT
+</DOCHDR>
+<HTML>
+<HEAD>
+<TITLE>Marsh Creek Waste Water Treatment Plant E-Mail</TITLE>
+</HEAD>
+
+<body bgcolor="#ffff999" text="#006635" link="#993300" vlink="#CC0099">
+
+<A NAME="top"></A>
+
+
+<CENTER>
+<H1>Contact Marsh Creek</H1>
+</CENTER>
+
+<center><img src="marbarf.gif"></center>
+<br clear="all">
+
+<BR> 
+<FONT SIZE=+1>
+<center>
+Enter your message in the areas provided below.<BR>
+Please fill out all of the fields.
+</center>
+</FONT>
+</CENTER>
+
+
+<FORM ACTION="http://205.232.34.1/spider/cgi-bin/formmail.pl" METHOD=POST>
+<INPUT TYPE="hidden" VALUE="gpe@vivanet.com" NAME="recipient">
+<INPUT TYPE="hidden" VALUE="From Marsh Creek HomePage" NAME="subject">
+<INPUT TYPE="hidden" VALUE="http://www.city.geneva.ny.us/marconfirm.html" NAME="redirect">
+
+<FONT SIZE=+1>
+<table border=0 cellpadding=3 cellspacing=3>
+<tr>
+<td>Your Name: </td>
+<td><input value="" size=60 name="name"></td>
+</tr>
+
+<tr>
+<td>Your Institution or Organization: </td>
+<td><input value="" size=60 name="instorg"></td>
+</tr>
+
+<tr>
+<td>Your E-Mail Address: </td>
+<td><input value="" size=60 name="from"></td>
+</tr>
+
+<tr>
+<td>Your Telephone Number:</td>
+<td><input value="" size=60 name="tele"></td>
+</tr>
+
+<tr>
+<td>Your FAX Number:</td>
+<td><input value="" size=60 name="fax"></td>
+</tr>
+
+<tr>
+<td>Your Postal Address:</td>
+<td><textarea name="address" rows=5 cols=60></textarea></td>
+</tr>
+
+<tr>
+<td>Subject of Message:</td>
+<td><input value="" size=60 name="usersubject"></td>
+</tr>
+
+<tr>
+<td>Your Message:</td>
+<td><textarea name="message" rows=10 cols=60></textarea></td>
+</tr>
+</table>
+
+<p>
+
+<CENTER><input type="submit" value="Send Message"> 
+<input type="reset" value="Clear Message"></CENTER>
+</FORM>
+</FONT>
+
+
+<P><BR><P>  
+
+
+<p>
+
+<center> <font size="+1">
+|<a href="index.htm#top"> Lead Page </a> |<a href="mar2.htm#top">  The Process </a>
+
+|<a href="mar3.htm#top"> The Product </a>
+
+|<a href="marsend.htm#top"> E-mail </a> |<a href="marfax.htm#top"> Fax </a>|<br>
+</font></center>
+
+<p> 
+
+<center><img src="marbar.gif"></center>
+
+<center><font size="2">
+Copyright 1996:<a href="http://www.spidergraphics.com"> Spider Graphics Corporation</a>
+ 
+<img src="line.gif" align="bottom"> Last updated June, 1996
+</font>
+</center>
+
+</body>
+</html>
+</DOC>
+<DOC>
+<DOCNO>WT01-B01-5</DOCNO>
+<DOCOLDNO>IA073-000475-B029-27</DOCOLDNO>
+<DOCHDR>
+http://www.city.geneva.ny.us:80/marfax.htm 192.108.245.124 19970121041502 text/html 1549
+HTTP/1.0 200 OK
+Date: Tue, 21 Jan 1997 04:14:01 GMT
+Server: Apache/1.1.1
+Content-type: text/html
+Content-length: 1378
+Last-modified: Tue, 09 Jul 1996 03:58:45 GMT
+</DOCHDR>
+<HTML>
+<HEAD>
+<TITLE>Marsh Creek Waste Water Treatment Plant FAX</TITLE>
+</HEAD>
+
+<body bgcolor="#ffff999" text="#006635" link="#993300" vlink="#CC0099">
+
+<A NAME="top"></A>
+ 
+
+<CENTER>
+<H2>Marsh Creek Treatment Plant</H2>
+</center>
+
+<center><img src="marbar3.gif"></center>
+<br clear="all">
+
+<center><FONT SIZE=+1>
+71 Doran Avenue<BR>
+Geneva, New York 14456 <BR>
+(315) 789-8040<BR>
+FAX (315) 789-4479
+<p></FONT></center>
+
+<center><img src="marbar3.gif"></center>
+<br clear="all">
+
+<UL>
+<P>
+ENTER YOUR NAME ___________________________________________
+<P>
+STREET _____________________________________________________
+<P>
+CITY _______________________STATE__________ZIP____________
+</CENTER>
+<P>
+This is an order for _____cubic yards.<BR>
+Please quote a price on the above order.<BR>
+Other needs or information requested???<BR><BR><BR><BR><BR><BR><BR>
+
+</UL>
+<P><BR><P> 
+
+
+
+<center> <font size="+1">
+|<a href="index.htm#top"> Lead Page </a> |<a href="mar2.htm#top">  The Process </a>
+
+|<a href="mar3.htm#top"> The Product </a>
+
+|<a href="marsend.htm#top"> E-mail </a> |<a href="marfax.htm#top"> Fax </a>|<br>
+</font></center>
+
+<p>
+
+<center><img src="marbar.gif"></center>
+
+
+<center><font size="2">
+Copyright 1996:<a href="http://www.spidergraphics.com"> Spider Graphics Corporation</a>
+ 
+<img src="line.gif" align="bottom"> Last updated June, 1996
+</font>
+</center>
+
+</body>
+</html>
+</DOC>

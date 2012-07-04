@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Assignment2" />
+		<Option makefile="makefile" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\ass" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="trec-002.txt" />
+				<Option projectCompilerOptionsRelation="0" />
+				<Compiler>
+					<Add option="-pedantic" />
+					<Add option="-Wextra" />
+					<Add option="-Wall" />
+					<Add option="-ansi" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\ass" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="trec-002.txt" />
+				<Option projectCompilerOptionsRelation="0" />
+				<Compiler>
+					<Add option="-march=core2" />
+					<Add option="-fomit-frame-pointer" />
+					<Add option="-O3" />
+					<Add option="-pedantic" />
+					<Add option="-Wall" />
+					<Add option="-ansi" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="README" />
+		<Unit filename="bstring.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bstring.h" />
+		<Unit filename="index.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="index.h" />
+		<Unit filename="index_options.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="index_options.h" />
+		<Unit filename="index_utility.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="index_utility.h" />
+		<Unit filename="makefile" />
+		<Unit filename="stem-words.txt" />
+		<Unit filename="stop-words.txt" />
+		<Unit filename="trec-002.txt" />
+		<Unit filename="trec-005.txt" />
+		<Unit filename="trec-010.txt" />
+		<Unit filename="trec-075.txt" />
+		<Unit filename="trec-296.txt" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

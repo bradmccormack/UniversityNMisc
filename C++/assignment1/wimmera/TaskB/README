@@ -1,0 +1,40 @@
+Student ID:s3258798
+Student Name: Brad Mccormack
+Development Environment 
+  OS: Arch Linux x64
+  IDE: Code Blocks
+  Usage: go into TaskB subdir and run make. After it finished do ./wimmera
+Period: SP3 2011
+
+Assumptions/Notes
+***************** 
+Whilst doing this assignment I realised I had some concerns on my interpretation of the spec. I think it is because the spec is probably not detailed enough. Or perhaps I am just overthinking it. I have placed my concerns below.
+
+
+** Purchasing Items
+
+1)  "When an Item is aded to the shopping cart,the system checks that there are enough copies of it available;
+If an Item is added or removed from the shopping cart, !the number of copies available must be updated! ."
+
+I interpret the part in exclamation marks as the same as the checkout spec
+
+!updates the number of copies of each item"
+
+My implementation from my interpretation -> 
+When an Item is added to the shopping cart or removed from the shopping cart it will update the shopping cart itself. The count of the item will be incremented if it already exists.
+
+In regards to removing an Item from the shopping cart, I delete the whole Item even if there are X copies of that item. This was approved on the forum.
+
+When it comes to checkout I have made it adjust the shop item qty's based upon the amount purchased. Eg if there are 5 of an item in the shop and the user has 4 in their shopping cart it will update the shop to have a qty of 1. This is probably realistic anyway. 
+
+
+** Design Decisions
+- I thought it would be interesting to attempt a version of MVC for a console/shell app. Hopefully it is reasonable :-) There is definitely a seperation of concerns.
+
+-In Task A and Task B there are no default constructors for Items,Books and Music. I wanted to control how they were instantiated. This was a deliberate design decision. In Task C I have implemented default constructors so I can implement the task requirements.
+
+
+
+
+ 
+

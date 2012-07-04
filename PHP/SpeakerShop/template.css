@@ -1,0 +1,187 @@
+body {
+background-color:white;
+font-size:12px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+a
+{
+    text-decoration:none;
+}
+
+.nav
+{
+    display:block;
+    color:White;
+    font-size:22px;
+    font-family:Calibri;
+    margin-left:10px;
+    margin-right:auto;
+    height:50px;  
+    
+    background-image: url(pictures/buttonout.jpg);
+    background-repeat: no-repeat;
+    padding-left: .6em;
+    list-style-type:none;
+    width:218px;
+    height:50px;
+    margin-bottom:10px;
+    display:block;
+}
+
+.nav:hover
+{
+     background-image: url(pictures/buttonin.jpg);
+}
+
+
+h1
+{
+    font-size:32px;
+    font-family:Courier New;
+}
+h2
+{
+    font-size:24px;
+    font-family:Courier New;
+}
+h3
+{
+    font-size:18px;
+    font-family:Courier New;
+}
+
+ul
+{
+    list-style-type:none;
+    padding: 0;
+    margin: 0;
+}
+
+div#wrapper 
+{
+width: 80%;
+background-color:#FFFFFF;
+margin-top: 50px;
+margin-bottom: 50px;
+margin-left: auto;
+margin-right: auto;
+padding: 0px;
+border: thin solid #000000;
+}
+
+div#header 
+{
+padding: 15px;
+margin: 0px;
+text-align: center;
+}
+
+div#nav 
+{
+width: 25%;
+height:800px;
+padding: 10px;
+margin-top: 1px;
+float: left;
+}
+
+div#main 
+{
+margin-left: 30%;
+margin-top: 1px;
+padding: 10px;
+}
+
+div#right
+{
+position: absolute;
+top: 10px;
+margin-left: 30%;
+margin-top: 10%;
+}
+
+
+div#footer 
+{
+    
+padding: 15px;
+margin: 0px;
+border-top: thin solid #000000;
+}
+
+div#footer ul li
+{
+color : #000000;
+background-color : transparent;
+display: inline;
+}
+
+div#footer ul li a:hover
+{
+text-decoration : underline;
+}
+
+
+div#footer ul li a:hover
+{
+text-decoration : underline;
+}
+
+.button
+{
+   
+}
+
+
+
+.center
+{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;   
+}
+
+.logo
+{
+    max-height:75px;
+    max-width:75px;
+}
+
+.speaker
+{
+	border-width: 1px;
+	max-height:400px;
+	max-width:400px;
+}
+
+.biglink
+{
+	font-size: x-large;
+}
+
+.bigback
+{
+    text-align: center;   
+    font-weight: bold;   
+    color: #334275;
+    font-size: large;
+    font-family:Calibri;
+}
+
+.sitemap
+{
+   font-size:large;
+   font-family:Calibri;
+}
+
+.sitemapsub
+{
+	font-size:large;
+   font-family:Calibri;
+   margin-left:25px;
+}
+
+
+
+

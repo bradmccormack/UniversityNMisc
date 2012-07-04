@@ -1,0 +1,4 @@
+Bowers and Wilkins|Bowers and Wilkins 800 Diamond|2|8500|productdetail_bowers800diamond.php
+Tannoy|Tannoy Dimension DC8T|2|7500|productdetail_tannoydimension.php
+Tannoy|Tannoy Revolution Signature Pack|5.1|6000|productdetail_revolutionpack.php
+Bowers and Wilkins|Bowers and Wilkins CM Pack|5.1|7000|productdetail_cmpack.php

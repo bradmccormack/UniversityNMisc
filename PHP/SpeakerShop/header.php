@@ -1,0 +1,1 @@
+ <h1>Hi Fidelity Sound<span> <img class="logo" src="pictures/logo.jpg" alt="Brads Speaker Shop Logo" /> </span></h1>

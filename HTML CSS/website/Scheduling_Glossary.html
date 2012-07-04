@@ -1,0 +1,269 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+ 
+<head> 
+<title>Scheduling Concepts/ Glossary</title> 
+<link rel="stylesheet" type="text/css" href="CSS/scheduler.CSS"/>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+</head> 
+
+<!-- The content of the site -->
+<body> 
+	
+
+<!-- The header / banner of the site -->
+<div id="header"> 
+<p class="summary">
+Concepts / Glossary - Author Brad Mccormack Student ID-15213505
+</p>
+</div>
+
+
+<!-- the left sided vertical navigation structure 
+I am assigning an id rather than a class as this wont be used again within the same file-->
+<div id="sidebar">
+<!-- unordered list for my menu -->
+<ul id="navigationmenu">
+<!-- the list items. Formatted by CSS each li represents a button the user can press
+I am assigning a class rather than an id as i will be using the same styling in the same file-->
+<li class="menuButton">
+<!-- an anchor is between each list item for navigating to the link -->
+<a class="menuAnchor" href="index.html">
+Introduction
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_Objectives.html">
+Objectives of Scheduling
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_Glossary.html">
+Concepts/Glossary
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_Types.html">
+Types of Schedulers
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_Algorithms.html">
+Scheduling Algorithms
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_batch.html">
+Batch/Non-Pre-emptive
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_interactive.html">
+Interactive/ Pre-emptive
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_furtherreading.html">
+Further Reading
+</a>
+</li>
+</ul> 
+
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:33px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" />
+</a>
+
+ <p>
+    <a href="http://validator.w3.org/check?uri=referer"><img
+        src="http://www.w3.org/Icons/valid-xhtml10"
+        alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a>
+  </p>
+</div>
+
+<!-- the main content for each page listing information about scheduling -->
+<div id="content">
+
+<h1>
+Scheduling Concepts / Glossary
+</h1>
+<br />
+
+<p>
+To understand the concept of Scheduling it is a good idea to understand some of the terms that are used. 
+Below is a table of the terms and an explanation of the term.
+</p>
+
+<!-- a picture formatted with the "pictureConent" class -->
+<img alt="Professor pointing to glossary" class="pictureComic" 
+src="pictures/glossary_professor.jpg" />
+
+<table id="glossary">
+<tr>
+<td>
+Multiprogramming
+</td>
+<td>
+The ability to run more processes/threads than the cpu has cores
+</td>
+</tr>
+
+<tr>
+<td>
+Dispatcher	
+</td>
+<td>
+Short term Scheduler. Please see the section on Short term Scheduler.
+</td>
+</tr>
+
+<tr>
+<td>
+Job Scheduler
+</td>
+<td>
+Long term Scheduler. Please see the section on Long term Scheduler.
+</td>
+</tr>
+
+<tr>
+<td>
+Quantum
+</td>
+<td>
+The slice of time a process has used before a context switch has occured.
+</td>
+</tr>
+
+<tr>
+<td>
+Turnaround time
+</td>
+<td>
+The interval of time between process submission and completion. 
+This is the sum of  executing time, waiting time(Processor + I/O)
+</td>
+</tr>
+
+<tr>
+<td>
+Response time
+</td>
+<td>
+Amount of time it takes from when a request was submitted until the first response is received.
+</td>
+</tr>
+
+<tr>
+<td>
+Deadline
+</td>
+<td>
+The time a process must complete by.
+</td>
+</tr>
+
+<tr>
+<td>
+Context Switch
+</td>
+<td>
+This is what occurs when the processor gives up the process.
+</td>
+</tr>
+
+<tr>
+<td>
+I/O Request
+</td>
+<td>
+A process requests to do an Input/Output operation such as read a sector from a hard drive.
+</td>
+</tr>
+
+<tr>
+<td>
+Blocked
+</td>
+<td>
+When a process makes an I/O operation request it enters a blocked state because it is waiting for some I/O to occur. 
+It will be blocked until the I/O request is complete. 
+</td>
+</tr>
+
+<tr>
+<td>
+Ready
+</td>
+<td>
+A process wants to execute on the CPU. It is currently waiting in the ready queue and has not been scheduled to execute yet.
+</td>
+</tr>
+
+<tr>
+<td>
+Running
+</td>
+<td>
+A CPU is executing the processes instructions
+</td>
+</tr>
+
+<tr>
+<td>
+Terminated
+</td>
+<td>
+The OS has aborted a process
+</td>
+</tr>
+
+<tr>
+<td>
+Process state transition
+</td>
+<td>
+A process will change its state from running to blocked to ready. Going from one to the other is called a state transition
+</td>
+</tr>
+
+<tr>
+<td>
+CPU Burst
+</td>
+<td>
+The time that a process has on the CPU
+</td>
+</tr>
+
+<tr>
+<td>
+IO Bound Process
+</td>
+<td>
+A process that performs lots of IO Operations
+</td>
+</tr>
+
+<tr>
+<td>
+CPU bound Process
+</td>
+<td>
+A process that performs lots of computation and little I/O
+</td>
+</tr>
+
+</table>
+
+<p class="reference">
+(William Stallings 2008, 411) <br />
+( D.M Dhamdhere 2006, 95) <br/>
+(Er. Vivek Sharma, Er. Manish Varshney, Shantanu Sharma 2010, 123)
+</p>
+
+</div>
+
+</body>
+</html>

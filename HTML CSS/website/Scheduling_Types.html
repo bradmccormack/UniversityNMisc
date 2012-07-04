@@ -1,0 +1,276 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+
+ 
+<head> 
+<title>Scheduling Types</title> 
+<link rel="stylesheet" type="text/css" href="CSS/scheduler.CSS"/>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+</head> 
+
+<!-- The content of the site -->
+<body> 
+
+<!-- The header / banner of the site -->
+<div id="header"> 
+<p class="summary">
+Types of Schedulers - Author Brad Mccormack Student ID-15213505
+</p>
+</div>
+
+
+<!-- the left sided vertical navigation structure 
+I am assigning an id rather than a class as this wont be used again within the same file-->
+<div id="sidebar">
+<!-- unordered list for my menu -->
+<ul id="navigationmenu">
+<!-- the list items. Formatted by CSS each li represents a button the user can press
+I am assigning a class rather than an id as i will be using the same styling in the same file-->
+<li class="menuButton">
+<!-- an anchor is between each list item for navigating to the link -->
+<a class="menuAnchor" href="index.html">
+Introduction
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_Objectives.html">
+Objectives of Scheduling
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_Glossary.html">
+Concepts/Glossary
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_Types.html">
+Types of Schedulers
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_Algorithms.html">
+Scheduling Algorithms
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_batch.html">
+Batch/Non-Pre-emptive
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_interactive.html">
+Interactive/ Pre-emptive
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_furtherreading.html">
+Further Reading
+</a>
+</li>
+</ul> 
+
+<!-- Show off shiny validation -->
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:33px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" />
+</a>
+
+ <p>
+    <a href="http://validator.w3.org/check?uri=referer"><img
+        src="http://www.w3.org/Icons/valid-xhtml10"
+        alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a>
+  </p>
+
+
+</div>
+
+
+<!-- the main content for each page listing information about scheduling -->
+<div id="content">
+
+<h1>
+Types of Schedulers
+</h1>
+<br />
+
+
+<p>
+There are three types of schedulers. They are classified according to the roles they perform.<br />
+They are<br />
+</p>
+
+<ul>
+<li>
+<a href="#longterm">
+Long Term Schedulers
+</a>
+</li>
+<li>
+<a href="#mediumterm">
+Medium Term Schedulers
+</a>
+</li>
+<li>
+<a href="#shortterm">
+Short Term Schedulers
+</a>
+</li>
+</ul>
+
+<p>
+Each of these handles the co-ordination of processes differently.
+</p>
+
+<p class="reference">
+(I.A Dhotre 2009, 2-7)
+</p>
+
+<br />
+<h2>
+<!-- giving the anchor a name so the anchor href above can jump here -->
+<a name="longterm">
+</a>
+Long Term Schedulers
+</h2>
+<br />
+
+<p>
+These are also called Job schedulers. The long term scheduler loads processes from the ready queue and loads them into 
+memory ready for the CPU scheduler (Short Term Scheduler). The Long Term Schedulers role is to provide a balanced mix 
+of processes for the system to handle which consists of I/O bound processes , processor bound processes and those which 
+have both characteristics 
+</p>
+
+<!-- a paragraph formatted with the "reference" class -->
+<p class="reference">
+(I.A Dhotre 2009, 2-7)
+</p>
+
+<p>
+You can think of the Job scheduler as a manager that makes sure a team gets the right type of work to the correct team member.
+</p>
+
+<p>
+Apart from loading up the Short Term Scheduler with a balanced mix of programs the Long Term Scheduler is also 
+responsible for handling multiprogramming. It must monitor the amount of running processes and make sure the rate 
+of process creation is equivalent or less than the rate of processes leaving the system so as not to bog the system down. 
+</p>
+
+<!-- a paragraph formatted with the "reference" class -->
+<p class="reference">
+I.A Dhotre 2009, 2-7)
+</p>
+
+<p>
+An analogy to multiprogramming monitoring is a manager that makes sure their team doesn?t have too much work and becomes
+inefficient due to work loads.
+</p>
+
+<h2>
+<!-- giving the anchor a name so the anchor href above can jump here -->
+<a name="mediumterm">
+</a>
+
+Medium Term Schedulers
+</h2>
+<br />
+
+<p>
+The medium term scheduler is perhaps the most simple of the schedulers. Not simple in terms of the implementation but in terms of its task.
+<br />
+<br />
+A Medium term scheduler is responsible for handling the load or degree of multiprogramming that is present in the Operating System.
+<br /><br />
+It achieves reduction or increase of multiprogramming by swapping out processes. 
+</p>
+
+<!-- a paragraph formatted with the "reference" class -->
+<p class="reference">
+(I.A Dhotre 2009, 2-8)
+</p>
+
+
+<p>
+Please see the Figure 2.7 for reference.
+</p>
+
+<!-- a picture formatted with the "pictureConent" class -->
+<img alt="Fig 2.7 Queing diagram with medium term scheduler" class="pictureContent"  
+src="pictures/Fig2.7_QueingDiagram_Medium.jpg" />
+
+<!-- a paragraph formatted with the "reference" class -->
+<p class="reference">
+(I.A Dhotre 2009, 2-8)
+</p>
+
+<h2>
+<!-- giving the anchor a name so the anchor href above can jump here -->
+<a name="shortterm">
+</a>
+
+Short Term Schedulers
+</h2>
+<br />
+
+
+<p>
+The Short Term Scheduler is also known as the CPU scheduler. Its role is to keep performance in accordance with a specified criteria. 
+<br/><br/>
+The Short Term Scheduler places processes from the ready queue to the running queue. The placement depends upon the criteria. 
+These are detailed in Scheduling Algorithms ? Categories and Implementations. The decision is a highly detailed decision 
+and depends upon the Scheduling Algorithm.<br /><br />
+Another name for the Short Term Scheduler is the dispatcher. <br/>
+</p>
+
+<!-- a paragraph formatted with the "reference" class -->
+<p class="reference">
+(I.A Dhotre 2009, 2-8)
+</p>
+
+<p>
+A good summary of the above Types is in the chart 2.2.2.4 and Table 9.1 below. 
+To understand from a diagrammatic perspective there is also a great chart which 
+shows overviews in Figure 9.1 and 9.2 below.
+</p>
+
+<!-- a picture formatted with the "pictureConent" class -->
+<img alt="2.2.2.4 Comparison between Scheduler" class="pictureContent"  src="pictures/Fig2.2.2.4_Comparison_Between_Scheduler.jpg" />
+
+<!-- a paragraph formatted with the "reference" class -->
+<p class="reference">
+(I.A Dhotre 2009, 2-8)
+</p>
+
+<!-- a picture formatted with the "pictureConent" class -->
+<img alt="Levels of Scheduling Summary" class="pictureContent"  
+src="pictures/LevelsOfScheduling.jpg" />
+
+<!-- a paragraph formatted with the "reference" class -->
+<p class="reference">
+(William Stallings 2008, 406)
+</p>
+
+<!-- a picture formatted with the "pictureConent" class -->
+<img alt="Levels of Scheduling Flow" class="pictureContent"  
+src="pictures/ComparisonWilliamStallings.jpg" />
+
+<!-- a paragraph formatted with the "reference" class -->
+<p class="reference">
+(William Stallings 2008, 407)
+</p>
+
+<!-- a picture formatted with the "pictureConent" class -->
+<img alt="Figure 9.2 Levels of Scheduling Flow" class="pictureContent"  
+src="pictures/Fig9.2_Levels.jpg" />
+
+<p class="reference">
+(William Stallings 2008,407)
+</p>
+
+
+</div>
+
+
+</body>
+</html>

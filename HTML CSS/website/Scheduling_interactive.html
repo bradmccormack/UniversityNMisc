@@ -1,0 +1,144 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+
+<head>
+<title>Scheduling Algorithms - Interactive/ Pre-emptive</title>
+<link rel="stylesheet" type="text/css" href="CSS/scheduler.CSS"/>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+</head> 
+
+
+<!-- The content of the site -->
+<body>
+
+
+<!-- The header / banner of the site -->
+<div id="header"> 
+<p class="summary">
+Scheduling Algorithms - Interactive / Pre-emptive - Author Brad Mccormack Student ID-15213505
+</p>
+</div>
+
+<!-- the left sided vertical navigation structure 
+I am assigning an id rather than a class as this wont be used again within the same file-->
+<div id="sidebar">
+<!-- unordered list for my menu -->
+<ul id="navigationmenu">
+<!-- the list items. Formatted by CSS each li represents a button the user can press
+I am assigning a class rather than an id as i will be using the same styling in the same file-->
+<li class="menuButton">
+<!-- an anchor is between each list item for navigating to the link -->
+<a class="menuAnchor" href="index.html">
+Introduction
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_Objectives.html">
+Objectives of Scheduling
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_Glossary.html">
+Concepts/Glossary
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_Types.html">
+Types of Schedulers
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_Algorithms.html">
+Scheduling Algorithms
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_batch.html">
+Batch/Non-Pre-emptive
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_interactive.html">
+Interactive/ Pre-emptive
+</a>
+</li>
+<li class="menuButton">
+<a class="menuAnchor" href="Scheduling_furtherreading.html">
+Further Reading
+</a>
+</li>
+</ul> 
+
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:33px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" />
+</a>
+
+ <p>
+    <a href="http://validator.w3.org/check?uri=referer"><img
+        src="http://www.w3.org/Icons/valid-xhtml10"
+        alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a>
+  </p>
+</div>
+
+<!-- the main content for each page listing information about scheduling -->
+<div id="content">
+<h1>
+Interactive / Preemptive Scheduling
+</h1>
+<br />
+
+
+<p>
+In pre-emptive scheduling a process will execute until it is interrupted 
+</p>
+
+<h3>
+Priority Scheduling	
+</h3>
+<br />
+
+
+<p>
+A Priority based CPU- Scheduling Scheme may be implemented by having a separate queue for each priority level reported by the 
+Operating System. When the priority queues are parsed highest priority queues have processes taken from them first.
+</p>
+
+<p class="reference">
+(Sibsankar Haldar, Alex A. Aravind 2009, 123)
+</p>
+
+<p>
+For each priority queue all processes in that level are accessed via a FCFS scheduling mechanism. 
+In simple terms the priority implementation is a concatenation of FCFS queues for all the different priority levels.
+</p>
+
+<p class="reference">
+(Sibsankar Haldar, Alex A. Aravind 2009, 123)
+</p>
+
+<p>
+Some diagrams are located below to help you understand Priority scheduling. Please see Fig 4.23 and Figure 5.8.
+</p>
+
+<!-- a picture formatted with the "pictureConent" class -->
+<img alt="Fig 4.23 Scheduling algorithm with four priority classes." class="pictureContent"
+src="pictures/4.2.3 Scheduling algorithm with four priority classes.jpg" />
+
+<p class="reference">
+(Sudhir Kumar 2004 , 99)
+</p>
+
+<!-- a picture formatted with the "pictureConent" class -->
+<img alt="Figure 5.8 The queueing model of static priortiy-queue-based scheduling. " class="pictureContent"
+src="pictures/Fig 5.8 Queing model static Priority.jpg" />
+
+<p class="reference">
+(Sibsankar Haldar, Alex A. Aravind 2009, 123)
+</p>
+
+</div>
+
+</body>
+</html>

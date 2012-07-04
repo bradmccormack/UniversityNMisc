@@ -1,0 +1,202 @@
+
+
+html{
+	/*full size and no margins or padding for html*/
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;	
+}
+
+/*styling for the body tag. Pretty much keep it all plain and reduce streching of the site lock your site into a simple, left-justified 960px*/
+body{
+	background: none;
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	width: 100%;
+}
+
+
+/*styling for all paragraphs*/
+p{
+	/*nice font i am happy with*/
+	font-family: Lucida Console Monaco;
+	/*the users base font size*/
+	font-size: 1em;
+	/* not to dark or light*/
+	font-weight: lighter;
+	line-height: 1.5em;
+}
+
+/*Clear h1, h2, h3 heirarchy */
+h1{
+	font-family: Verdana;
+	font-size: 2em;
+}
+h2{
+	font-family: Verdana;
+	font-size: 1.5em;
+}
+h3{
+	font-family: Verdana;
+	font-size: 1.25em;
+}
+
+/*custom bullets for all unordered lists */
+ul{
+	list-style-image: url(../pictures/bullet.jpg);
+}
+
+/*set the information header id style*/
+#header{
+	width: 100%;
+	height: 50px;
+	/*clipped overflow*/
+	overflow:hidden;
+}
+
+/*the navigation side bar id*/
+#sidebar{
+	/* don't scroll it */
+	position:fixed;
+
+	/* keep to the left */
+	float:left;
+	left:0px;
+	/* offset from the top*/
+	top:38px;
+	/* fixed width*/
+	width:400px;
+	height: auto;
+	/* small border */
+	border:1px;
+	/* clipped overflow */
+   overflow: hidden;
+   background-image: url(../pictures/flashy.jpg)
+ 
+}
+
+/*the main content id*/
+#content{
+	/*keep it at the spot i specify*/
+	position:absolute;
+	left:400px;
+	top:40px;
+	/* clipped overflow */
+	overflow:hidden;
+	/* lock the site into left justified so it doesnt strech on large monitor */
+	max-width: 780px;
+
+}
+
+/*the navigation menu id*/
+#navigationmenu{
+	/*space between lines*/
+	line-height:56px;	
+	 
+}
+
+/* The overall table styling for the glossary */
+#glossary{
+	border-width: 1px;
+	border-style:solid;
+	border-color: black;
+	border-spacing: 3px;
+}
+
+/* Styling for each table cell */
+td{
+	border: 1px solid;
+	border-color: gray;
+	font-size:small;
+}
+
+/* styling for each anchor /link */
+.menuAnchor{
+	/* .1 larger than the users base font size*/
+	font-size: 14px;
+	/* no bolding etc*/
+	font-style: normal;
+	color: white;
+	/*make the spacing look better*/
+	letter-spacing: 3px;
+	text-decoration: none;
+	font-family: Lucida Console Monaco;	
+	/*offset from start of bottom */
+	padding-left: 10%;
+	/* required so the whole button is clickable*/
+	display:block;
+}
+/* styling for hover action for anchor - make it yellow*/
+.menuAnchor:hover
+{
+	color:yellow;
+}
+
+/*styling for visited action for anchor - make it black*/
+.menuAnchor:visited
+{
+	color:black;
+}
+
+/* menuButton class for styling the menuButtons */
+.menuButton{
+/*select the picture to display as the background and specify no repeat*/
+	background:url(../pictures/buttonback.png) no-repeat;
+	list-style-type:none;
+	
+	list-style-image:none;
+	/*required to click the whole button*/
+	display:block;
+}
+
+/* styling for hover action for menubuttonclass*/
+.menuButton:hover
+{
+/*change to shiny button*/
+background:url(../pictures/buttonover.png) no-repeat;
+}
+
+/* a class to stylise any content pictures. By this i mean any pictures that flow along with main content.*/
+.pictureContent
+{
+    padding: 6px 0px 6px 0px;
+    background-color: #666666;
+    border-top-width: 1px;
+    border-right-width: 3px;
+    border-bottom-width: 1px;
+    border-left-width: 3px;
+    border-style: solid;
+    border-color: #111111;
+}
+
+
+/* a class to potentially stylise any comical/edited pictures. By this i mean any pictures that flow along with main content.*/
+.pictureComic
+{
+    background-image: url(../pictures/border.jpg);
+}
+
+/*the summary class*/
+.summary{
+	/* A little bit from the top and bottom.  */
+	padding:10px 0px 10px 20px;
+	border-style:solid;
+	border-color:black;
+	border-width:1px 0px; /* top and bottom borders: 1px; left and right borders: 0px */
+	line-height:11px;
+	/* appropriate color */
+	background-color:#eee;
+	/*make spacing look better */
+	letter-spacing: 3px;
+}
+
+/* a class to stylise references to textbooks or pictures */
+.reference{
+	/*italic font*/
+	font-style: italic;
+	/*left align text*/
+	text-align: left;
+}
+

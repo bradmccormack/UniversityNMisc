@@ -1,0 +1,671 @@
+# depslib dependency file v1.0
+1318713181 source:/home/brad/git/uni/c++/assignment1/wimmera/main.cpp
+	<iostream>
+	"include/controller.h"
+
+1318713181 ontroller.h"
+
+1318713387 /home/brad/git/uni/c++/assignment1/wimmera/include/view.h
+	<vector>
+	"../include/utility1.h"
+	"../include/item.h"
+
+1321471166 e/item.h"
+
+1318671749 source:/home/brad/git/uni/c++/assignment1/wimmera/src/view.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"../include/view.h"
+	"../include/utility1.h"
+
+1321474224 e/utility1.h"
+
+1317765700 source:/home/brad/git/uni/c++/assignment1/wimmera/src/Controller.cpp
+	"../include/Controller.h"
+
+1317765700 e/Controller.h"
+
+1317765652 /home/brad/git/uni/c++/assignment1/wimmera/include/Controller.h
+	"../include/View.h"
+	"../include/Model.h"
+
+1317765503 e/Model.h"
+
+1317766681 /home/brad/git/uni/c++/assignment1/wimmera/include/View.h
+	"../include/utility1.h"
+
+1317766178 /home/brad/git/uni/c++/assignment1/wimmera/include/Model.h
+	<string>
+	"../include/item.h"
+	"../include/book.h"
+	"../include/music.h"
+
+1321471166 e/music.h"
+
+1317765503 source:/home/brad/git/uni/c++/assignment1/wimmera/src/Model.cpp
+	"../include/Model.h"
+
+1317767610 source:/home/brad/git/uni/c++/assignment1/wimmera/src/View.cpp
+	<iostream>
+	<string>
+	"../include/View.h"
+	"../include/utility1.h"
+
+1315473128 /home/brad/git/uni/c++/assignment1/wimmera/include/utility1.h
+	<string>
+	<iostream>
+
+1321471166 
+
+1318713054 /home/brad/git/uni/c++/assignment1/wimmera/include/book.h
+	"../include/item.h"
+
+1318713022 /home/brad/git/uni/c++/assignment1/wimmera/include/item.h
+	<string>
+
+1318713072 /home/brad/git/uni/c++/assignment1/wimmera/include/music.h
+	"../include/item.h"
+
+1318681901 source:/home/brad/git/uni/c++/assignment1/wimmera/src/utility1.cpp
+	"../include/utility1.h"
+
+1318712994 /home/brad/git/uni/c++/assignment1/wimmera/include/controller.h
+	"../include/view.h"
+	"../include/model.h"
+
+1321471166 e/model.h"
+
+1318713094 /home/brad/git/uni/c++/assignment1/wimmera/include/model.h
+	"../include/shop.h"
+	"../include/shoppingcart.h"
+
+1321478100 e/shoppingcart.h"
+
+1318713454 source:/home/brad/git/uni/c++/assignment1/wimmera/src/controller.cpp
+	"../include/controller.h"
+	<sstream>
+	<iostream>
+	<typeinfo>
+
+1318684424 source:/home/brad/git/uni/c++/assignment1/wimmera/src/model.cpp
+	"../include/model.h"
+	<stdlib.h>
+	<iostream>
+
+1318713210 source:/home/brad/git/uni/c++/assignment1/wimmera/src/book.cpp
+	"../include/book.h"
+
+1318713210 e/book.h"
+
+1318713167 /home/brad/git/uni/c++/assignment1/wimmera/include/shop.h
+	<string>
+	<vector>
+	"../include/item.h"
+	"../include/book.h"
+	"../include/music.h"
+
+1318713167 /home/brad/git/uni/c++/assignment1/wimmera/include/shoppingcart.h
+	<vector>
+	"../include/item.h"
+
+1318681901 source:/home/brad/git/uni/c++/assignment1/wimmera/src/shop.cpp
+	"../include/shop.h"
+
+1321471166 e/shop.h"
+
+1318681817 source:/home/brad/git/uni/c++/assignment1/wimmera/src/shoppingcart.cpp
+	"../include/shoppingcart.h"
+	<string>
+	<vector>
+	"../include/item.h"
+	"../include/book.h"
+	"../include/music.h"
+
+1318713210 source:/home/brad/git/uni/c++/assignment1/wimmera/src/music.cpp
+	"../include/music.h"
+
+1318674443 source:/home/brad/git/uni/c++/assignment1/wimmera/src/item.cpp
+	"../include/item.h"
+
+1318733318 source:/home/brad/git/uni/c++/assignment1/wimmera/TaskC/main.cpp
+	"include/controller.h"
+	"include/item.h"
+	"include/book.h"
+
+1321499354 ook.h"
+
+1318718974 /home/brad/git/uni/c++/assignment1/wimmera/TaskC/include/controller.h
+	"../include/view.h"
+	"../include/model.h"
+
+1318718974 /home/brad/git/uni/c++/assignment1/wimmera/TaskC/include/view.h
+	<vector>
+	"../include/utility1.h"
+	"../include/item.h"
+
+1318718974 /home/brad/git/uni/c++/assignment1/wimmera/TaskC/include/utility1.h
+	<string>
+	<iostream>
+
+1318731591 /home/brad/git/uni/c++/assignment1/wimmera/TaskC/include/item.h
+	<string>
+	<iostream>
+	<sstream>
+
+1318718974 /home/brad/git/uni/c++/assignment1/wimmera/TaskC/include/model.h
+	"../include/shop.h"
+	"../include/shoppingcart.h"
+
+1318718974 /home/brad/git/uni/c++/assignment1/wimmera/TaskC/include/shop.h
+	<vector>
+	"../include/item.h"
+	"../include/book.h"
+	"../include/music.h"
+
+1318732777 /home/brad/git/uni/c++/assignment1/wimmera/TaskC/include/book.h
+	"../include/item.h"
+
+1318732882 /home/brad/git/uni/c++/assignment1/wimmera/TaskC/include/music.h
+	"../include/item.h"
+
+1318718974 /home/brad/git/uni/c++/assignment1/wimmera/TaskC/include/shoppingcart.h
+	<vector>
+	"../include/item.h"
+
+1318732995 source:/home/brad/git/uni/c++/assignment1/wimmera/TaskC/src/book.cpp
+	"../include/book.h"
+	<sstream>
+
+1318718974 source:/home/brad/git/uni/c++/assignment1/wimmera/TaskC/src/controller.cpp
+	"../include/controller.h"
+	<sstream>
+	<iostream>
+	<typeinfo>
+
+1318731769 source:/home/brad/git/uni/c++/assignment1/wimmera/TaskC/src/item.cpp
+	"../include/item.h"
+	"../include/utility1.h"
+	<iostream>
+
+1318718974 source:/home/brad/git/uni/c++/assignment1/wimmera/TaskC/src/model.cpp
+	"../include/model.h"
+	<stdlib.h>
+	<iostream>
+
+1318733077 source:/home/brad/git/uni/c++/assignment1/wimmera/TaskC/src/music.cpp
+	"../include/music.h"
+
+1318718974 source:/home/brad/git/uni/c++/assignment1/wimmera/TaskC/src/shop.cpp
+	"../include/shop.h"
+
+1318718974 source:/home/brad/git/uni/c++/assignment1/wimmera/TaskC/src/shoppingcart.cpp
+	"../include/shoppingcart.h"
+	<string>
+	<vector>
+	"../include/item.h"
+	"../include/book.h"
+	"../include/music.h"
+
+1318718974 source:/home/brad/git/uni/c++/assignment1/wimmera/TaskC/src/utility1.cpp
+	"../include/utility1.h"
+
+1318718974 source:/home/brad/git/uni/c++/assignment1/wimmera/TaskC/src/view.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"../include/view.h"
+	"../include/utility1.h"
+
+1321471166 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/book.cpp
+	"../include/book.h"
+	<sstream>
+
+1321471166 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/book.h
+	"../include/item.h"
+
+1321471166 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/item.h
+	<string>
+	<iostream>
+	<sstream>
+
+1321478282 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/controller.cpp
+	"../include/controller.h"
+	"../include/customexceptions.h"
+	<sstream>
+	<iostream>
+	<typeinfo>
+
+1321471166 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/controller.h
+	"../include/view.h"
+	"../include/model.h"
+
+1321474010 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/view.h
+	<vector>
+	"../include/utility1.h"
+	"../include/item.h"
+
+1321472961 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/utility1.h
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	"../include/customexceptions.h"
+
+1321499734 e/customexceptions.h"
+
+1321476974 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/model.h
+	<map>
+	"../include/book.h"
+	"../include/user.h"
+	"../include/shop.h"
+	"../include/shoppingcart.h"
+
+1321471166 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/shop.h
+	<vector>
+	"../include/item.h"
+	"../include/book.h"
+	"../include/music.h"
+
+1321471166 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/music.h
+	"../include/item.h"
+
+1321471166 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/shoppingcart.h
+	<vector>
+	"../include/item.h"
+
+1321471166 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/item.cpp
+	"../include/item.h"
+	"../include/utility1.h"
+	<iostream>
+
+1321478229 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/model.cpp
+	"../include/model.h"
+	<stdlib.h>
+	<iostream>
+	<iterator>
+
+1321471166 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/music.cpp
+	"../include/music.h"
+
+1321471166 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/shop.cpp
+	"../include/shop.h"
+
+1321471166 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/shoppingcart.cpp
+	"../include/shoppingcart.h"
+	<string>
+	<vector>
+	"../include/item.h"
+	"../include/book.h"
+	"../include/music.h"
+
+1321475427 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/utility1.cpp
+	"../include/utility1.h"
+
+1321474224 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/view.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"../include/view.h"
+	"../include/utility1.h"
+
+1321475528 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/main.cpp
+	"include/controller.h"
+	"include/item.h"
+	"include/book.h"
+
+1321471166 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/user.cpp
+	"../include/user.h"
+
+1321471166 e/user.h"
+
+1321478100 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/user.h
+	<iostream>
+	"../include/shoppingcart.h"
+
+1321473545 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/customexceptions.h
+	<string>
+
+1321472418 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/customexceptions.cpp
+	"../include/customexceptions.h"
+
+1321474224 source:/Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/src/view.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"../include/view.h"
+	"../include/utility1.h"
+
+1321474010 /Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/include/view.h
+	<vector>
+	"../include/utility1.h"
+	"../include/item.h"
+
+1321496157 /Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/include/utility1.h
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	"../include/customexceptions.h"
+
+1321495729 /Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/include/customexceptions.h
+	<string>
+	<exception>
+
+1321498706 >
+
+1321471166 /Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/include/item.h
+	<string>
+	<iostream>
+	<sstream>
+
+1321471166 source:/Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/src/book.cpp
+	"../include/book.h"
+	<sstream>
+
+1321471166 /Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/include/book.h
+	"../include/item.h"
+
+1321495949 source:/Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/src/customexceptions.cpp
+	"../include/customexceptions.h"
+
+1321471166 source:/Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/src/item.cpp
+	"../include/item.h"
+	"../include/utility1.h"
+	<iostream>
+
+1321478526 source:/Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/src/model.cpp
+	"../include/model.h"
+	<stdlib.h>
+	<iostream>
+	<iterator>
+
+1321476974 /Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/include/model.h
+	<map>
+	"../include/book.h"
+	"../include/user.h"
+	"../include/shop.h"
+	"../include/shoppingcart.h"
+
+1321478100 /Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/include/user.h
+	<iostream>
+	"../include/shoppingcart.h"
+
+1321471166 /Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/include/shoppingcart.h
+	<vector>
+	"../include/item.h"
+
+1321471166 /Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/include/shop.h
+	<vector>
+	"../include/item.h"
+	"../include/book.h"
+	"../include/music.h"
+
+1321471166 /Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/include/music.h
+	"../include/item.h"
+
+1321471166 source:/Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/src/music.cpp
+	"../include/music.h"
+
+1321471166 source:/Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/src/shop.cpp
+	"../include/shop.h"
+
+1321471166 source:/Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/src/shoppingcart.cpp
+	"../include/shoppingcart.h"
+	<string>
+	<vector>
+	"../include/item.h"
+	"../include/book.h"
+	"../include/music.h"
+
+1321471166 source:/Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/src/user.cpp
+	"../include/user.h"
+
+1321496144 source:/Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/src/utility1.cpp
+	"../include/utility1.h"
+
+1321496295 source:/Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/main.cpp
+	"include/controller.h"
+	"include/item.h"
+	"include/book.h"
+
+1321471166 /Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/include/controller.h
+	"../include/view.h"
+	"../include/model.h"
+
+1321495241 source:/Users/iqmultimediaiqmultimedia/Desktop/assignment2_codeblocks/wimmera/src/controller.cpp
+	"../include/controller.h"
+	"../include/customexceptions.h"
+	<sstream>
+	<iostream>
+	<typeinfo>
+
+1321499354 source:c:\users\brad\desktop\assignment2_codeblocks\wimmera\main.cpp
+	"include/controller.h"
+	"include/item.h"
+	"include/book.h"
+
+1321471166 c:\users\brad\desktop\assignment2_codeblocks\wimmera\include\controller.h
+	"../include/view.h"
+	"../include/model.h"
+
+1321474010 c:\users\brad\desktop\assignment2_codeblocks\wimmera\include\view.h
+	<vector>
+	"../include/utility1.h"
+	"../include/item.h"
+
+1321499734 c:\users\brad\desktop\assignment2_codeblocks\wimmera\include\utility1.h
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	"../include/customexceptions.h"
+
+1321498706 c:\users\brad\desktop\assignment2_codeblocks\wimmera\include\customexceptions.h
+	<string>
+	<exception>
+
+1321471166 c:\users\brad\desktop\assignment2_codeblocks\wimmera\include\item.h
+	<string>
+	<iostream>
+	<sstream>
+
+1321476974 c:\users\brad\desktop\assignment2_codeblocks\wimmera\include\model.h
+	<map>
+	"../include/book.h"
+	"../include/user.h"
+	"../include/shop.h"
+	"../include/shoppingcart.h"
+
+1321471166 c:\users\brad\desktop\assignment2_codeblocks\wimmera\include\book.h
+	"../include/item.h"
+
+1321478100 c:\users\brad\desktop\assignment2_codeblocks\wimmera\include\user.h
+	<iostream>
+	"../include/shoppingcart.h"
+
+1321471166 c:\users\brad\desktop\assignment2_codeblocks\wimmera\include\shoppingcart.h
+	<vector>
+	"../include/item.h"
+
+1321471166 c:\users\brad\desktop\assignment2_codeblocks\wimmera\include\shop.h
+	<vector>
+	"../include/item.h"
+	"../include/book.h"
+	"../include/music.h"
+
+1321471166 c:\users\brad\desktop\assignment2_codeblocks\wimmera\include\music.h
+	"../include/item.h"
+
+1321471166 source:c:\users\brad\desktop\assignment2_codeblocks\wimmera\src\book.cpp
+	"../include/book.h"
+	<sstream>
+
+1321498911 source:c:\users\brad\desktop\assignment2_codeblocks\wimmera\src\controller.cpp
+	"../include/controller.h"
+	"../include/customexceptions.h"
+	<sstream>
+	<iostream>
+	<typeinfo>
+
+1321499221 source:c:\users\brad\desktop\assignment2_codeblocks\wimmera\src\customexceptions.cpp
+	"../include/customexceptions.h"
+	<iostream>
+
+1321471166 source:c:\users\brad\desktop\assignment2_codeblocks\wimmera\src\item.cpp
+	"../include/item.h"
+	"../include/utility1.h"
+	<iostream>
+
+1321478526 source:c:\users\brad\desktop\assignment2_codeblocks\wimmera\src\model.cpp
+	"../include/model.h"
+	<stdlib.h>
+	<iostream>
+	<iterator>
+
+1321471166 source:c:\users\brad\desktop\assignment2_codeblocks\wimmera\src\music.cpp
+	"../include/music.h"
+
+1321471166 source:c:\users\brad\desktop\assignment2_codeblocks\wimmera\src\shop.cpp
+	"../include/shop.h"
+
+1321471166 source:c:\users\brad\desktop\assignment2_codeblocks\wimmera\src\shoppingcart.cpp
+	"../include/shoppingcart.h"
+	<string>
+	<vector>
+	"../include/item.h"
+	"../include/book.h"
+	"../include/music.h"
+
+1321471166 source:c:\users\brad\desktop\assignment2_codeblocks\wimmera\src\user.cpp
+	"../include/user.h"
+
+1321499668 source:c:\users\brad\desktop\assignment2_codeblocks\wimmera\src\utility1.cpp
+	"../include/utility1.h"
+
+1321474224 source:c:\users\brad\desktop\assignment2_codeblocks\wimmera\src\view.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"../include/view.h"
+	"../include/utility1.h"
+
+1321471166 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/item.cpp
+	"../include/item.h"
+	"../include/utility1.h"
+	<iostream>
+
+1321867933 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/item.h
+	<string>
+	<iostream>
+	<sstream>
+	<map>
+	<vector>
+
+1321822209 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/utility1.h
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"../include/customexceptions.h"
+
+1321754119 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/customexceptions.h
+	<string>
+	<exception>
+
+1321863014 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/user.cpp
+	"../include/user.h"
+
+1321862643 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/user.h
+	<iostream>
+	"../include/shoppingcart.h"
+
+1321819060 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/shoppingcart.h
+	<vector>
+	"../include/item.h"
+
+1321819047 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/shoppingcart.cpp
+	"../include/shoppingcart.h"
+	<string>
+	<vector>
+	"../include/item.h"
+	"../include/book.h"
+	"../include/music.h"
+
+1321754119 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/book.h
+	"../include/item.h"
+
+1321754119 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/music.h
+	"../include/item.h"
+
+1321867719 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/model.cpp
+	"../include/model.h"
+	<stdlib.h>
+	<iostream>
+	<iterator>
+
+1321864173 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/model.h
+	<map>
+	"../include/book.h"
+	"../include/user.h"
+	"../include/shop.h"
+	"../include/shoppingcart.h"
+	"../include/utility1.h"
+	"../include/customexceptions.h"
+
+1321471166 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/shop.h
+	<vector>
+	"../include/item.h"
+	"../include/book.h"
+	"../include/music.h"
+
+1321754119 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/customexceptions.cpp
+	"../include/customexceptions.h"
+	<iostream>
+
+1321765536 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/music.cpp
+	"../include/music.h"
+
+1321765521 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/book.cpp
+	"../include/book.h"
+	<sstream>
+
+1321499354 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/main.cpp
+	"include/controller.h"
+	"include/item.h"
+	"include/book.h"
+
+1321863086 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/controller.h
+	"../include/view.h"
+	"../include/model.h"
+	"../include/utility1.h"
+
+1321762248 /home/brad/git/uni/c++/assignment2_codeblocks/wimmera/include/view.h
+	<vector>
+	"../include/utility1.h"
+	"../include/item.h"
+	"../include/book.h"
+	"../include/music.h"
+	"../include/user.h"
+
+1321863503 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/controller.cpp
+	"../include/controller.h"
+	"../include/customexceptions.h"
+	<sstream>
+	<iostream>
+	<typeinfo>
+
+1321764316 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/view.cpp
+	<iostream>
+	<sstream>
+	<string>
+	"../include/view.h"
+	"../include/utility1.h"
+
+1321822364 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/utility1.cpp
+	"../include/utility1.h"
+
+1321748382 source:/home/brad/git/uni/c++/assignment2_codeblocks/wimmera/src/shop.cpp
+	"../include/shop.h"
+

@@ -1,0 +1,39 @@
+books
+Absolute C++ - Savitch, book and ebook, 5 copies, $75.00/$15.00
+- Recommended: none
+
+C++: How to Program - Deitel and Deitel, book and ebook, 0 copies, $65.00/$12.00
+- Recommended: Absolute C++ (Savitch)
+
+Computing Concepts with C++ - Stroustrup, book only, 5 copies, $114.72
+- Recommended: Absolute C++ (Savitch); C++: How to Program (Deitel and Deitel)
+
+C++ Software Solutions - Lafore and Sutter, book only, 5 copies, $80.00
+- Recommended: none
+
+C++ Program Design - Stroustrup, book and ebook, 1 copy, $51.00/$10.00
+- Recommnded: none
+
+
+music
+At Folsom Prison, Johnny Cash, CD and emusic, 10 copies, $7.56/$10.99
+- Recommended: The Essential Johhn Cash (Johnny Cash); American Recordings (Johnny Cash)
+
+The Essential Johnny Cash, Johnny Cash, CD and emusic, 5 copies, $12.64/$16.99
+- Recommended: At Folsom Prison (Johnny Cash); American Recordings (Johnny Cash)
+
+American Recordings, Johnny Cash, CD and emusic, 0 copies, $9.99/$9.99
+- Recommended: The Essential Johhn Cash (Johnny Cash); At Folsom Prison (Johnny Cash)
+
+Classic Nursery Rhymes, Hap Palmer, CD only, 0 copies, $13.73
+- Recommended: Classic Nursery Rhymes (Tailman)
+
+Classic Nursery Rhymes, Susie Tallman, CD and emusic, 1 copy, $11.47/$8.99
+- Recommended: Classic Nursery Rhymes (Palmer)
+
+
+users
+bs, bspasswd, Bjarne Stroustrup, bjarne@wimmera.com.au, Shopper, non-member
+wsa, wspw, Walter Savitch, walter@wimmera.com.au, Administrator
+ws, wspw, Walter Savitch, walter@wimmera.com.au, Shopper, non-member
+dv, dvpw, David van der Monde, david@wimmera.com.au, Shopper, member

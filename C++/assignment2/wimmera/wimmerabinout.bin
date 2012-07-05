@@ -1,0 +1,14 @@
+#books
+#title|author|no. of copies|ebook?(yes,no)|physical-price|ebook-price
+Absolute C++|Savitch|5|yes|75|15
+C++: How to Program|Deitel and Deitel|0|yes|65|12
+Computing Concepts with C++ |Stroustrup|5|no|114.72|0
+C++ Software Solutions|Lafore and Sutter|4|no|80|0
+C++ Program Design|Stroustrup|1|yes|51|10
+#users
+#id|password|name|email|shopper/admin|member/non-member[|cart-title1|cart-author1|ebook?|price-paid]*   for any items in cart
+bm|bm|Brad Mccormack- Shopper|brad_mccormack@exemail.com.au|shopper|member
+bma|bma|Brad Mccormack - Admin|brad_mccormack@exemail.com.au|admin|non-member
+bs|bspasswd|Bjarne Stroustrup|bjarne@wimmera.com.au|shopper|member|Absolute C++|Savitch|ebook|12.5|C++ Program Design|Stroustrup|ebook|10
+dv|dvpw|David van der Monde|david@wimmera.com.au|shopper|non-member
+ws|wspw|Walter Savitch|walter@wimmera.com.au|shopper|non-member

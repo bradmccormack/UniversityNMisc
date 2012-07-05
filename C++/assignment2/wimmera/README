@@ -1,0 +1,78 @@
+Student ID:s3258798
+Student Name: Brad Mccormack
+Development Environment 
+  OS: Arch Linux x64
+  IDE: Code Blocks
+  Usage: ./wimmera infile outfile
+Period: SP3 2011
+Assignment2
+
+
+Notes-
+I found this assignment very challenging. I left it towards the end (last 3 days). I severely underestimated it :-(.
+I was focusing on my Job/Family etc and didn't pay enough time to the assignment.
+
+If I had more time I would apply my learnings in my job such as RAII principles. I should be letting the compiler
+manage memory and use stack vars where appropriate. I also feel there is not enough seperation for MVC in my design
+but I left it too late to clean it up. 
+
+The class diagram is located in the same root directory as the assignment and is called "class diagram.png"
+
+
+Completed
+Requirement 1 - yes
+Requirement 2-  yes
+Requirement 3-  yes
+Requirement 4 - yes
+Requirement 5 - yes
+Requirment 6 - NOT DONE
+Requirement 7 - Implemented some custom exceptions and Exception handling where I felt it was appropriate.
+Requirement 8- Done
+
+
+Why did you choose the STL containers that you implemented
+* Vectors - Easy enough and logical enough where I didnt need any special lookup type functionality.
+* Map - Perfect for users data. It allows me to easily lookup users, it is performant and disallows duplicates.
+* (If i get time to do the recommendations) - I'd chose a combination of Map and Vector. 
+I'd have something such as Map<string,vector<string>>.  The key would be a tittle. The value would be a vector of strings (recommendations)
+
+
+
+Bonus -
+Template functions - I create a couple of useful template functions
+
+template <class T>
+inline string toStr(const T& t)
+{
+   std::stringstream ss;
+   ss <<t;
+   return ss.str();
+}
+
+template <class T>
+inline double toDouble(const T& t)
+{
+   std::stringstream is;
+   is << t;
+   double result;
+   is >> result;
+   return result;
+}
+
+handling remove of recommnend books - NOT DONE
+
+Known issues
+1) There will be memory leaks
+2) I did not complete recommendations
+3) I did not handle loading/saving of cart data
+4) I wasn't sure what the point of the hard coded users and books was in the text file as they are input from the text file so I didn't hard code them.
+
+
+
+
+
+
+
+
+ 
+

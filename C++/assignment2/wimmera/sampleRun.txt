@@ -1,0 +1,246 @@
+
+Welcome to the Wimmera Store.
+
+Please select an option:
+1. Login
+0. Quit
+Your selection: 1
+
+username: bs
+password: bspasswd
+
+Welcome to Wimmera, Bjarne Stroustrup. You are logged in as a Shopper.
+
+Please select an option:
+1. Add item to shopping cart 
+2. View shopping cart 
+3. Remove item from shopping cart 
+4. Checkout 
+5. List all items 
+6. Print previous purchases 
+7. Change User 
+0. Quit
+Your selection: xzy
+
+Sorry, that is an invalid input.
+
+Please select an option:
+<menu>
+Your selection: 8
+
+Sorry, that is an invalid option.
+
+Please select an option:
+<menu>
+Your selection: 1
+
+What type of item do you want: (m)usic  or (b)ook: b
+What title: c++
+Results found:
+1. C++: How to Program (Deitel and Deitel) - $65.00 / $12.00
+2. C++ Software Solutions (Lafore and Sutter) - $80.00 / no ebook
+3. C++ Program Design (Stroustrup) - $51.00 / $10.00
+0. cancel
+What is your selection: 1
+You selected: C++: How to Program (Deitel and Deitel) - $65.00 / $12.00
+Do you want to purchase as ebook: yes
+You have added this selection to your shopping cart for $12.00.
+The following titles are also recommended:
+1. Absolute C++ (Savitch)
+0. I'm done
+What is your selection: 1
+You selected Absolute C++ (Savitch) - $75.00 / $15.00
+Do you want to purchase as an ebook: no
+You receive 15% off this item
+You have added this selection to your cart for $63.75
+There are no recommendations for this title.
+
+Please select an option:
+<menu>
+Your selection: 1
+
+What type of item do you want: (m)usic  or (b)ook: b
+What title: c++
+Results found:
+1. C++: How to Program (Deitel and Deitel) - $65.00 / $12.00
+2. C++ Software Solutions (Lafore and Sutter) - $80.00 / no ebook
+3. C++ Program Design (Stroustrup) - $51.00 / $10.00
+0. cancel
+What is your selection: 2
+You selected: C++ Software Solutions (Lafore and Sutter)
+Do you want to purchase as ebook: no
+You already have items worth $75.75 in your cart. This item would take you above your purchase limit of $100. The item was not added to your cart.
+
+Please select an option:
+<menu>
+Your selection: 3
+
+Which item would you like to remove from your cart:
+1. C++: How to Program (Deitel and Deitel) - $12.00
+2. Absolute C++ (Savitch) - $75.75
+0. cancel
+What is your selection: 2
+You selected: Absolute C++ (Savitch) 
+Are you sure you want to remove this item from your cart (y/n): y
+This item has been removed from your cart.
+
+Please select an option:
+<menu>
+Your selection: 1
+
+What type of item do you want: (m)usic  or (b)ook: b
+What title: c++
+Results found:
+1. C++: How to Program (Deitel and Deitel) - $65.00 / $12.00
+2. C++ Software Solutions (Lafore and Sutter) - $80.00 / no ebook
+3. C++ Program Design (Stroustrup) - $51.00 / $10.00
+0. cancel
+What is your selection: 2
+You selected: C++ Software Solutions (Lafore and Sutter) for $80.00
+Do you want to purchase as ebook: no
+You have added this selection to your shopping cart for $80.00
+There are no recommendations for this title.
+
+Please selection an option:
+<menu>
+Your selection: 4
+
+You have chosen to checkout.
+You purchased the following items:
+1. C++: How to Program (Deitel and Deitel) - $12.00
+2. C++ Software Solutions (Lafore and Sutter) - $80.00
+Your total is $92.00
+Thanks for shopping at Wimmera!
+
+Please select an option:
+<menu>
+Your selection: 1
+
+What type of item do you want: (m)usic  or (b)ook: b
+What title: absolute c++
+Results found:
+1. Absolute C++ (Savitch) - $75.00 / $15.00
+0. cancel
+What is your selection: 1
+You selected Absolute C++ (Savitch) - $75.00 / $15.00
+Do you want to purchase as an ebook: no
+You have added this selection to your cart for $75.00
+There are no recommendations for this title.
+
+Please select an option:
+<menu>
+Your selection: 4
+
+You have chosen to checkout.
+You purchased the following items:
+1. Absolute C++ (Savitch) - $75.00
+Your total is $75.00
+Thanks for shopping at Wimmera!
+Your total spending at Wimmera has exceeded $100! You qualify to become a 
+member.
+This will remove your spending limit and increase your discounts!
+Would you like to become a member (y/n): y
+Congratulations Bjarne Stroustrup. You are now a Member at Wimmera!
+
+Please select an option:
+<menu>
+Your selection: 6
+
+Here is your purchasing history:
+* Transaction 1, you purchased the following items:
+1. C++: How to Program (Deitel and Deitel) - $12.00
+2. C++ Software Solutions (Lafore and Sutter) - $80.00
+Your total was $92.00
+* Transaction 2, you purchased the following items:
+1. Absolute C++ (Savitch) - $75.00
+Your total was $75.00
+
+Please select an option:
+<menu>
+Your selection: 7
+
+Goodbye Bijarne Stroustrup. Thank you for shopping at Wimmera!
+
+username: ws
+password: wpasswd
+Username or password is incorrect! Please try again.
+
+username: ws
+password: wspasswd
+
+Welcome to Wimmera, Walter Savitch. You are logged in as an Administrator.
+
+Please select an option:
+1. List all items
+2. Add copies to item 
+3. Change price of item 
+4. Add new user 
+5. Change user
+0. Quit 
+Your selection: 1
+
+The following items are available:
+Books:
+1. Absolute C++ (Savitch) , 4 copies, no ebook  --- 1 copy sold
+2. C++: How to Program (Deitel and Deitel) , 0 copies, ebook available  --- 1 ebook sold
+3. Computing Concepts with C++  (Stroustrup) , 5 copies, no ebook --- no sales
+4. C++ Software Solutions (Lafore and Sutter), 4 copies, no ebook --- 1 copy sold
+5. C++  Program Design (Stroustrup), 1 copy, ebook available  --- no sales
+
+Music:
+...
+
+Please select an option:
+<menu>
+Your selection: 2
+
+Which title: c++
+Results found:
+1. C++: How to Program (Deitel and Deitel) - $65.00 / $12.00
+2. C++ Software Solutions (Lafore and Sutter) - $80.00 / no ebook
+3. C++ Program Design (Stroustrup) - $51.00 / $10.00
+0. cancel
+What is your selection: 1
+You selected: C++: How to Program (Deitel and Deitel) 
+How many copies would you like to add: 5
+Total number of copies available for this title is 9.
+
+Please select an option:
+<menu>
+Your selection: 3
+
+Which title: c++
+Results found:
+1. C++: How to Program (Deitel and Deitel) - $65.00 / $12.00
+2. C++ Software Solutions (Lafore and Sutter) - $80.00 / no ebook
+3. C++ Program Design (Stroustrup) - $51.00 / $10.00
+0. cancel
+What is your selection: 1
+You selected: C++: How to Program (Deitel and Deitel) 
+Do you want to change the price of the ebook (y/n): n
+Do you want to change the price of physical copies (y/n): y
+What is the new price: 70.00
+The price of physical copies of this title is now $70.00.
+
+Please select an option:
+<menu>
+Your selection: 4
+
+What is the id of the new user: ws
+This id is already in use. Do you want to continue (y/n): y
+What is the id of the new user: wsi
+Choose a password: newwspasswd
+Retype the password: newwspasswd
+What is the user's name: Walter Savitch
+What is the user's email: ws@wimmera.com.au
+Is this user a (s)hopper or (a)dministrator: p
+That is an invalid option.
+Is this user a (s)hopper or (a)dministrator: s
+Is this user a member (y/n): n
+Walter Savitch (ws) has been added as a user.
+
+Please select an option:
+<menu>
+Your selection: 0
+
+Goodbye Walter Savitch.

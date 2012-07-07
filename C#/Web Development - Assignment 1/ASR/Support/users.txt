@@ -1,0 +1,10 @@
+Matt,e1234567,e1234567@ems.rmit.edu.au
+Joe,e5678905,e5678905@ems.rmit.edu.au
+Davis,e1234577,e1234577@ems.rmit.edu.au
+Kelly,e7896787,e7896787@ems.rmit.edu.au
+Megan,e0987654,e0987654@ems.rmit.edu.au
+Kevin,s1234567,s1234567@student.rmit.edu.au
+Xin,s2345678,s2345678@student.rmit.edu.au
+Asif,s3456789,s3456789@student.rmit.edu.au
+Jaya,s4567890,s4567890@student.rmit.edu.au
+Olivier,s5678901,s5678901@student.rmit.edu.au

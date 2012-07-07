@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0EA73899-B6C4-4EA0-925E-03AEE101842C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASR", "ASR\ASR.csproj", "{9A60AA8A-EA1C-483F-A03F-A4B6745D43A6}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = ASR.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A60AA8A-EA1C-483F-A03F-A4B6745D43A6}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9A60AA8A-EA1C-483F-A03F-A4B6745D43A6}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9A60AA8A-EA1C-483F-A03F-A4B6745D43A6}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{9A60AA8A-EA1C-483F-A03F-A4B6745D43A6}.Debug|x86.ActiveCfg = Debug|x86
+		{9A60AA8A-EA1C-483F-A03F-A4B6745D43A6}.Debug|x86.Build.0 = Debug|x86
+		{9A60AA8A-EA1C-483F-A03F-A4B6745D43A6}.Release|Any CPU.ActiveCfg = Release|x86
+		{9A60AA8A-EA1C-483F-A03F-A4B6745D43A6}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9A60AA8A-EA1C-483F-A03F-A4B6745D43A6}.Release|Mixed Platforms.Build.0 = Release|x86
+		{9A60AA8A-EA1C-483F-A03F-A4B6745D43A6}.Release|x86.ActiveCfg = Release|x86
+		{9A60AA8A-EA1C-483F-A03F-A4B6745D43A6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9A60AA8A-EA1C-483F-A03F-A4B6745D43A6} = {0EA73899-B6C4-4EA0-925E-03AEE101842C}
+	EndGlobalSection
+EndGlobal

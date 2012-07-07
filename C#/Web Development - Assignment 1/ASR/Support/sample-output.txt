@@ -1,0 +1,190 @@
+------------------------------------------------------------
+Welcome to Appointment Scheduling and Reservation System
+------------------------------------------------------------
+
+------------------------------------------------------------
+Main menu:
+	1. List rooms
+	2. List slots
+	3. Staff menu
+	4. Student menu
+	5. Exit
+
+Enter option: 1
+Existing rooms:
+	Room Name
+	A
+	B
+	C
+	D
+
+------------------------------------------------------------
+Main menu:
+	1. List rooms
+	2. List slots
+	3. Staff menu
+	4. Student menu
+	5. Exit
+
+Enter option: 2
+Existing slots
+Enter date for slots (dd-mm-yyyy): 04-03-2012
+
+Existing slots on 04-03-2012:
+	Room name      Start Time     End Time       Staff ID            Bookings            
+	<no existing slots>
+
+------------------------------------------------------------
+Main menu:
+	1. List rooms
+	2. List slots
+	3. Staff menu
+	4. Student menu
+	5. Exit
+
+Enter option: 3
+
+------------------------------------------------------------
+Staff menu:
+	1. List staffs
+	2. Room availability
+	3. Create slot
+	4. Remove slot
+	5. Exit
+
+Enter option: 3
+Create slot
+Enter date for slot (dd-mm-yyyy): 04-03-2012
+Enter time for slot (hh:mm): 09:00
+Enter staff ID: e1234567
+Enter room name: A
+
+Slot created successfully
+
+------------------------------------------------------------
+Staff menu:
+	1. List staffs
+	2. Room availability
+	3. Create slot
+	4. Remove slot
+	5. Exit
+
+Enter option: 5
+Exiting staff menu
+
+------------------------------------------------------------
+Main menu:
+	1. List rooms
+	2. List slots
+	3. Staff menu
+	4. Student menu
+	5. Exit
+
+Enter option: 2
+Existing slots
+Enter date for slots (dd-mm-yyyy): 04-03-2012
+
+Existing slots on 04-03-2012:
+	Room name      Start Time     End Time       Staff ID            Bookings            
+	A              09:00          10:00          e1234567            -                   
+
+------------------------------------------------------------
+Main menu:
+	1. List rooms
+	2. List slots
+	3. Staff menu
+	4. Student menu
+	5. Exit
+
+Enter option: 4
+
+------------------------------------------------------------
+Student menu:
+	1. List students
+	2. Staff availability
+	3. Make booking
+	4. Cancel booking
+	5. Exit
+
+Enter option: 1
+Existing students:
+	Name                ID                  Email               
+	Kevin               s1234567            s1234567@student.rmit.edu.au
+	Xin                 s2345678            s2345678@student.rmit.edu.au
+	Asif                s3456789            s3456789@student.rmit.edu.au
+	Jaya                s4567890            s4567890@student.rmit.edu.au
+	Olivier             s5678901            s5678901@student.rmit.edu.au
+
+------------------------------------------------------------
+Student menu:
+	1. List students
+	2. Staff availability
+	3. Make booking
+	4. Cancel booking
+	5. Exit
+
+Enter option: 2
+Staff availablitity
+Enter date for staff availability (dd-mm-yyyy): 04-03-2012
+Enter staff ID: e1234567
+
+Staff e1234567 availablitity on 04-03-2012:
+	Room name           Start Time          End Time            
+	A                   09:00               10:00               
+
+------------------------------------------------------------
+Student menu:
+	1. List students
+	2. Staff availability
+	3. Make booking
+	4. Cancel booking
+	5. Exit
+
+Enter option: 3
+Make booking
+Enter date for slot (dd-mm-yyyy): 04-03-2012
+Enter time for slot (hh:mm): 09:00
+Enter staff ID: e1234567
+Enter room name: A
+Enter student ID: s1234567
+
+Slot booked successfully
+
+------------------------------------------------------------
+Student menu:
+	1. List students
+	2. Staff availability
+	3. Make booking
+	4. Cancel booking
+	5. Exit
+
+Enter option: 5
+Exiting student menu
+
+------------------------------------------------------------
+Main menu:
+	1. List rooms
+	2. List slots
+	3. Staff menu
+	4. Student menu
+	5. Exit
+
+Enter option: 2
+Existing slots
+Enter date for slots (dd-mm-yyyy): 04-03-2012
+
+Existing slots on 04-03-2012:
+	Room name      Start Time     End Time       Staff ID            Bookings            
+	A              09:00          10:00          e1234567            s1234567            
+
+------------------------------------------------------------
+Main menu:
+	1. List rooms
+	2. List slots
+	3. Staff menu
+	4. Student menu
+	5. Exit
+
+Enter option: 5
+Terminating ASR
+ 

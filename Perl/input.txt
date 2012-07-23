@@ -1,0 +1,4 @@
+http://www.engadget.com/rss.xml
+http://www.abc.net.au/news/feed/51120/rss.xml
+http://feeds.gizmodo.com.au/GizmodoAustraliaAU?format=xml
+http://feeds.theage.com.au/rssheadlines/top.xml

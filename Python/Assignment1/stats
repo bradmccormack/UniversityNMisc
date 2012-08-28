@@ -1,0 +1,56 @@
+#!/usr/bin/env python2
+
+import enrol
+import sys
+import os
+
+cd = None
+#check if ENROLDir env var is set if so then make that the CD
+if "ENROLDIR" in os.environ:
+    cd = os.environ["ENROLDIR"]
+    if cd[:-1] != "/":
+        cd += "/"
+else:
+    #check if there is a data subdir
+    dr = os.getcwd() + "/data/"
+    if(os.path.isdir(dr)):
+        cd = dr
+    else:
+        #neither condition is relevent so inform them
+        print "Please set environment variable ENROLDIR or create a sub-direcory labelled data in the current working directory\n"
+        exit(0)
+
+System = enrol.Enrol(cd)
+
+#Show statistics
+if(len(sys.argv) == 1):
+    for subject in System.subjects():
+            Students = 0
+            try:
+                classes = System.classes(subject)
+                for cl in classes:
+                    Students += len(System.getStudents(cl))
+            except KeyError:
+                classes = []
+            print subject , System.subject_name(subject), "classes: " , len(classes), "students: ", Students
+
+#Show alternate statistics          
+elif(len(sys.argv) == 3 and sys.argv[1] == "--student"):
+    StudentId = sys.argv[2]
+    for subject in System.subjects():
+        try:
+            for cl in System.classes(subject):
+                if StudentId in System.getStudents(cl):
+                    classInfo = System.getClassInfo(cl)
+                    print subject, System.subject_name(subject), classInfo[1], "@", classInfo[2]
+        except KeyError:
+            continue
+                
+else:
+    #incorrect/unsupported amount of arguments. Inform them of usage
+    print "Usage: stats [--student studentid]"
+      
+    
+    
+
+    
